@@ -16,9 +16,9 @@ Es hat sich eine Gruppe von Personen herausgebildet die regelmäßig Shownotes s
 Das ermöglichte es, die Shownotes auf einer Seite halbwegs übersichtlich zu haben und diese erstmalig vor Vandalismus zu schützen.
 Es fanden erste Überlegungen statt, unter einem Namen "Shownotes"  Sendungsnotizen zu schreiben, neben WRINT wurde damals auch begonnen regelmäßig Shownotes für NSFW zu schreiben.
 
-###Anfängliche Schritte ```01.2012```
+###Mehr Aufmerksamkeit ```01.2012```
 
-Tim Pritlove wird aufmerksam auf die Shownotes, es wird der Wunsch geäussert, schöner formatierte Shownotes zu haben. Es gibt erste Standardisierungsansätze, die schliesslich ein 3/4 Jahr später zum OSF wachsen werden.
+Tim Pritlove wird aufmerksam auf die Shownotes, er äussert den Wunsch, schöner formatierte Shownotes haben zu wollen. Es gab erste Standardisierungsansätze, die schliesslich ein 3/4 Jahr später zum OSF gewachsen sind.
 Es werden vermehrt Zeitangaben gesetzt und der [ePirat](http://epirat.de/) hat ein Uhr Script geschrieben, deren Angaben (Laufzeit des Streams) noch händisch abgeschrieben werden mussten.
 
 ###Shownot.es ```08.2012```
