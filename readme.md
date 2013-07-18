@@ -1,8 +1,8 @@
-#ACHTUNG, dies ist nur die erste Version eines noch unfertigen Textes, der nur mithilfe der Erinnerung, ein paar Notizen und der GitHub Commit History entstand, er enthält sicher noch Fehler oder unfertige Inhalte. Jeder der glaubt dazu beitragen zu können, dass dieser Text besser wird kann das gerne im [Pad pad.shownot.es/doc/aboutShownot.es](http://pad.shownot.es/doc/aboutShownot.es) oder im [git Repo github.com/shownotes/about-us](https://github.com/shownotes/about-us) machen.
+#ACHTUNG, dies ist nur die erste Version eines noch unfertigen Textes, der nur mithilfe der Erinnerung, ein paar Notizen und der GitHub Commit History entstand, er enthält sicher noch Fehler oder unfertige Inhalte. Jeder der glaubt dazu beitragen zu können, dass dieser Text besser wird kann das gerne im [Pad pad.shownot.es/doc/aboutShownot.es](http://pad.shownot.es/doc/aboutShownot.es) oder im [git Repo github.com/shownotes/about-us](https://github.com/shownotes/about-us) machen. Der komplette Text ist in Markdown zu schreiben.
 
 ---
 
-#Diese erste Version wurde von mir (Simon) geschrieben, der Text sollte allerdings nicht die Meinung einer einzelnen Person widerspiegeln oder aus der Ich-Form berichten, deshalb werden alle Personen im Text (auch ich selbst) mit dem Namen angesprochen. Da ich selbst nicht von Anfang an dabei war kann ich schlecht über die Zeit vor meines Beitritts erzählen.
+#Diese erste Version wurde von mir (Simon) geschrieben, der Text sollte allerdings nicht die Meinung einer einzelnen Person widerspiegeln oder aus der Ich-Form berichten, deshalb werden alle Personen im Text (auch ich selbst) mit dem Namen angesprochen. Da ich selbst nicht von Anfang an dabei war kann ich schlecht über die Zeit vor meines Beitritts erzählen. Um mehr Semantik zu erhalten verlinke ich bei jeder und nicht nur bei der ersten Erwähnung einer Person auf dessen Webseite/ADN/Twitter-Account. Auch bei Repos oder anderen Projekten würde ich das bevorzugen.
 
 ---
 
@@ -14,11 +14,19 @@
 
 ##Geschichte
 
-###Erste Schritte ```11.2011```
+###Am Anfang war das (gesprochene) Wort ```07.2011```
 
-Es war einmal, vor langer, langer Zeit, genau gesagt Ende 2011 (November) als sich einige Podcasthörer zusammen fanden und bereit waren, die Welt zu verändern.  
-Anfangs wurde das [Piratenpad](http://www.piratenpad.de/) ([Etherpad](http://de.wikipedia.org/wiki/EtherPad) der [Piratenpartei](http://www.piratenpartei.de/)) in einem nicht näher definiertem Format geschrieben. Das ursprüngliche Ziel hat sich bis heute nicht stark verändert, wir wollen für möglichst viele Audioinhalte zusätzliche Daten sammeln, zusammenführen und somit Podcasts leichter durchsuchbar und erwähnte Webseiten, Produkte, Personen, … leichter auffindbar machen. Wir lieben Metadaten und solange es noch nicht möglich ist, Audio automatisiert in Texte umzuwandeln und diese semantisch zu analysieren sind wir bereit, die Arbeit selbst zu machen. *(wir wissen, dass es einige Speech2Text und Textanalyse Programme gibt, allerdings gibt es noch keines, welches uns vollständig zufrieden stellt)*  
-Die Zeitangaben wurden noch per Hand von einer vom [ePirat](http://epirat.de/) geschriebenen Uhr abgeschrieben.
+Es war einmal vor langer, langer Zeit, genauer gesagt am Freitag 15. Juli 2011, 19 Uhr ( http://www.wrint.de/2011/07/15/kl010011-ferngesprache-iii/#more-301 ), als sich einige Podcasthörer zusammen fanden und bereit waren, die Welt zu verändern.  
+Anfangs wurde das [Piratenpad](http://www.piratenpad.de/) ([Etherpad](http://de.wikipedia.org/wiki/EtherPad) der [Piratenpartei](http://www.piratenpartei.de/)) in einem nicht näher definiertem Format eeeeee. Das ursprüngliche Ziel hat sich bis heute nicht stark verändert, wir wollen für möglichst viele Audioinhalte zusätzliche Daten sammeln, zusammenführen und somit Podcasts leichter durchsuchbar und erwähnte Webseiten, Produkte, Personen, … leichter auffindbar machen. Wir lieben Metadaten und solange es noch nicht möglich ist, Audio automatisiert in Texte umzuwandeln und diese semantisch zu analysieren sind wir bereit, die Arbeit selbst zu machen. *(wir wissen, dass es einige Speech2Text und Textanalyse Programme gibt, allerdings gibt es noch keines, welches uns vollständig zufrieden stellt)*  
+
+###Piratenpad ```11.2011```
+Es hat sich eine Gruppe von Personen rausgebildet die regelmäßig Shownotes schreibt, und das Piratenpad shownotes.piratenpad.de wird aufgemacht.
+Das ermöglichte es, die Shownotes auf einer Seite halbwegs übersichtlich zu haben, und diese erstmalig vor Vandalismus zu schützen.
+Es fanden erste Gedankengäng statt, unter einem Namen "Shownotes"  Sendungsnotizen zu schreiben, neben WRINT werden nun auch begonnen regelmäßig Shownotes für NSFW zu schreiben.
+
+###Anfängliche Schritte ```01.2012```
+Tim Pritlove wird aufmerksam auf die Shownotes, es wird der Wunsch geäussert, schöner formatierte Shownotes zu haben. Es gibt erste Standardisierungsansätze, die schliesslich ein 3/4 Jahr später zum OSF wachsen werden.
+Ers werden vermehrt Zeitangaben gesetzt, und [ePirat](http://epirat.de/) schreibt  eine Uhr dieren Angaben noch händisch abgeschrieben werden.
 
 ###Shownot.es ```08.2012```
 
@@ -58,7 +66,7 @@ Neben den Shownotes für die Vorträge haben wir aber auch Shownotes für [die t
 ###Treffen und Skypekonferenzen ```06.2013```
 
 Auf dem [PPW13](http://metaebene.me/blog/2013/03/15/podlove-podcaster-workshop/) und der [RP13](http://re-publica.de/) haben wir gelernt, dass persönliche Gespräche von Angesicht zu Angesicht oder zumindest akustische Unterhaltungen (d.h. keine Chats oder Instant Messenger) bei weitem Zielführender sind, als beispielsweise Diskussionen im IRC.  
-Aus diesem Grund haben sich um Juni [Evita](https://alpha.app.net/evita) und [Simon](http://simon.waldherr.eu/) mit einigen Podcastern in Berlin getroffen und an neuen Ideen gefeilt.  
+Aus diesem Grund haben sich im Juni [Evita](https://alpha.app.net/evita) und [Simon](http://simon.waldherr.eu/) mit einigen Podcastern in Berlin getroffen und an neuen Ideen gefeilt.  
 Ausserdem hatten wir am 02. Juli eine Skype Konferenz mit allen Mitgliedern des Kernteams, künftig wollen wir dies mindestens einmal im Monat machen.
 
 ---
@@ -72,9 +80,9 @@ und wenn sie nicht gestorben sind, dann Shownoten sie noch heute
 
 Name             | dabei seit | Zuständig für | Webseite              | App.net
 -----------------|------------|---------------|-----------------------|-------------------
-Kai              |            | Twitter & ADN | [kaikubasta.de](http://kaikubasta.de/)         | only twitter [kaikubasta](http://twitter.com/kaikubasta)
-Quimoniz         |            | Webseite      |                       | [@quimoniz](https://alpha.app.net/quimoniz)
-kaeffchen heinz  |            |               |                       | only twitter [kaeffchen_heinz](https://twitter.com/kaeffchen_heinz)
+Kai              |    22.7.'11        | Twitter & ADN | [kaikubasta.de](http://kaikubasta.de/)         | only twitter [kaikubasta](http://twitter.com/kaikubasta)
+Quimoniz         |      15.7.'11      | Webseite      |                       | [@quimoniz](https://alpha.app.net/quimoniz)
+kaeffchen heinz  |  16.7.'12          |               |                       | only twitter [kaeffchen_heinz](https://twitter.com/kaeffchen_heinz)
 Evita Bley       |            | Planung       | [podcascription.de](http://podcascription.de/) | [@evita](https://alpha.app.net/evita)
 Simon Waldherr   | 07.2012    | Parser        | [simon.waldherr.eu](http://simon.waldherr.eu/) | [@simonwaldherr](https://alpha.app.net/simonwaldherr)
 luto             |            | Pad           | [luto.at](http://luto.at/)                     | [@luto](https://alpha.app.net/luto)
@@ -108,5 +116,4 @@ OSF Definition      | 05.2013            | Markdown     | Simon      | [OSF-in-a
 
 ---
 wie es sich für echte Shownoter gehört wurde auch dieser Text in unserem ShowPad geschrieben.
-
 
