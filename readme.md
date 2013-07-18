@@ -1,32 +1,25 @@
-#ACHTUNG, dies ist nur die erste Version eines noch unfertigen Textes, der nur mithilfe der Erinnerung, ein paar Notizen und der GitHub Commit History entstand, er enthält sicher noch Fehler oder unfertige Inhalte. Jeder der glaubt dazu beitragen zu können, dass dieser Text besser wird kann das gerne im [Pad pad.shownot.es/doc/aboutShownot.es](http://pad.shownot.es/doc/aboutShownot.es) oder im [git Repo github.com/shownotes/about-us](https://github.com/shownotes/about-us) machen. Der komplette Text ist in Markdown zu schreiben.
-
----
-
-#Diese erste Version wurde von mir (Simon) geschrieben, der Text sollte allerdings nicht die Meinung einer einzelnen Person widerspiegeln oder aus der Ich-Form berichten, deshalb werden alle Personen im Text (auch ich selbst) mit dem Namen angesprochen. Da ich selbst nicht von Anfang an dabei war kann ich schlecht über die Zeit vor meines Beitritts erzählen. Um mehr Semantik zu erhalten verlinke ich bei jeder und nicht nur bei der ersten Erwähnung einer Person auf dessen Webseite/ADN/Twitter-Account. Auch bei Repos oder anderen Projekten würde ich das bevorzugen.
-
----
-
-#so das wars an Metainformation zum Text, der richtige Text beginnt in Zeile 13 und diese Überschriften werden wenn der Text fertig ist gelöscht.
-
----
-
 #über Shownot.es
 
 ##Geschichte
 
 ###Am Anfang war das (gesprochene) Wort ```07.2011```
 
-Es war einmal vor langer, langer Zeit, genauer gesagt am Freitag 15. Juli 2011, 19 Uhr ( http://www.wrint.de/2011/07/15/kl010011-ferngesprache-iii/#more-301 ), als sich einige Podcasthörer zusammen fanden und bereit waren, die Welt zu verändern.  
-Anfangs wurde das [Piratenpad](http://www.piratenpad.de/) ([Etherpad](http://de.wikipedia.org/wiki/EtherPad) der [Piratenpartei](http://www.piratenpartei.de/)) in einem nicht näher definiertem Format eeeeee. Das ursprüngliche Ziel hat sich bis heute nicht stark verändert, wir wollen für möglichst viele Audioinhalte zusätzliche Daten sammeln, zusammenführen und somit Podcasts leichter durchsuchbar und erwähnte Webseiten, Produkte, Personen, … leichter auffindbar machen. Wir lieben Metadaten und solange es noch nicht möglich ist, Audio automatisiert in Texte umzuwandeln und diese semantisch zu analysieren sind wir bereit, die Arbeit selbst zu machen. *(wir wissen, dass es einige Speech2Text und Textanalyse Programme gibt, allerdings gibt es noch keines, welches uns vollständig zufrieden stellt)*  
+Es war einmal vor langer, langer Zeit, genauer gesagt [am Freitag 15. Juli 2011, 19 Uhr](http://www.wrint.de/2011/07/15/kl010011-ferngesprache-iii/#more-301), als sich einige Podcasthörer zusammen fanden und bereit waren, die Welt zu verändern.  
+Anfangs wurde das [Piratenpad](http://www.piratenpad.de/) ([Etherpad](http://de.wikipedia.org/wiki/EtherPad) der [Piratenpartei](http://www.piratenpartei.de/)) in einem nicht näher definiertem Format geschrieben.  
+Gefüllt wurde es mit Links und mit Text der erwähnenswert schien. Zu jenen Tagen sprach man über den [exklusionistischen Charakter der deutschen Wikipedia](http://de.wiktionary.org/wiki/Exklusionist) und wir wollten Inklusionisten sein. So schrieben wir große Mengen an Text, fast völlig ohne eine Formatierung zu haben.  
+Nach einem Dutzend an Sendungen wuchs in manchen der Ehrgeiz kontinuierlich Shownotes für die WRINT Episoden zu schreiben. Wir wollten für alle Hörer eine Möglichkeit bieten, die relevanten Links und Verweise in den 3- bis 4-stündigen Sendung zusammen an einem Ort zu haben und die Sendung thematisch überblicken zu können.
+Das ursprüngliche Ziel hat sich bis heute nicht stark verändert, wir wollen für möglichst viele Audioinhalte zusätzliche Daten sammeln, zusammenführen und somit Podcasts leichter durchsuchbar und erwähnte Webseiten, Produkte, Personen, … leichter auffindbar machen. Wir lieben Metadaten!  
 
-###Piratenpad ```11.2011```
-Es hat sich eine Gruppe von Personen rausgebildet die regelmäßig Shownotes schreibt, und das Piratenpad shownotes.piratenpad.de wird aufgemacht.
-Das ermöglichte es, die Shownotes auf einer Seite halbwegs übersichtlich zu haben, und diese erstmalig vor Vandalismus zu schützen.
-Es fanden erste Gedankengäng statt, unter einem Namen "Shownotes"  Sendungsnotizen zu schreiben, neben WRINT werden nun auch begonnen regelmäßig Shownotes für NSFW zu schreiben.
+###Den Piraten sei gedankt ```11.2011```
+
+Es hat sich eine Gruppe von Personen herausgebildet die regelmäßig Shownotes schreiben und die [Piraten-IT](https://wiki.piratenpartei.de/IT) hat eine [Team-Instanz für das Shownotes Team angelegt](https://shownotes.piratenpad.de/).
+Das ermöglichte es, die Shownotes auf einer Seite halbwegs übersichtlich zu haben und diese erstmalig vor Vandalismus zu schützen.
+Es fanden erste Überlegungen statt, unter einem Namen "Shownotes"  Sendungsnotizen zu schreiben, neben WRINT wurde damals auch begonnen regelmäßig Shownotes für NSFW zu schreiben.
 
 ###Anfängliche Schritte ```01.2012```
+
 Tim Pritlove wird aufmerksam auf die Shownotes, es wird der Wunsch geäussert, schöner formatierte Shownotes zu haben. Es gibt erste Standardisierungsansätze, die schliesslich ein 3/4 Jahr später zum OSF wachsen werden.
-Ers werden vermehrt Zeitangaben gesetzt, und [ePirat](http://epirat.de/) schreibt  eine Uhr dieren Angaben noch händisch abgeschrieben werden.
+Es werden vermehrt Zeitangaben gesetzt und der [ePirat](http://epirat.de/) hat ein Uhr Script geschrieben, deren Angaben (Laufzeit des Streams) noch händisch abgeschrieben werden mussten.
 
 ###Shownot.es ```08.2012```
 
@@ -78,15 +71,15 @@ und wenn sie nicht gestorben sind, dann Shownoten sie noch heute
 ```einfach eintragen, ich werde das ganze dann nach "dabei seit" sortieren oder wir lassen es einfach so, wie ihr wollt```  
 ```mir waere es lieber, wenn jeder seinen Realnamen eintragen wuerde, aber macht wie ihr wollt```   
 
-Name             | dabei seit | Zuständig für | Webseite              | App.net
------------------|------------|---------------|-----------------------|-------------------
-Kai              |    22.7.'11        | Twitter & ADN | [kaikubasta.de](http://kaikubasta.de/)         | only twitter [kaikubasta](http://twitter.com/kaikubasta)
-Quimoniz         |      15.7.'11      | Webseite      |                       | [@quimoniz](https://alpha.app.net/quimoniz)
-kaeffchen heinz  |  16.7.'12          |               |                       | only twitter [kaeffchen_heinz](https://twitter.com/kaeffchen_heinz)
-Evita Bley       |            | Planung       | [podcascription.de](http://podcascription.de/) | [@evita](https://alpha.app.net/evita)
-Simon Waldherr   | 07.2012    | Parser        | [simon.waldherr.eu](http://simon.waldherr.eu/) | [@simonwaldherr](https://alpha.app.net/simonwaldherr)
-luto             |            | Pad           | [luto.at](http://luto.at/)                     | [@luto](https://alpha.app.net/luto)
-Dr4k3            |            | Notification  | [fastreboot.de](http://fastreboot.de/)         | [@dr4k3](https://alpha.app.net/dr4k3)
+Name             | aktiv seit | Zuständig für | Webseite                                       | App.net                                               | Twitter
+-----------------|------------|---------------|------------------------------------------------|-------------------------------------------------------|------------------------
+Kai              | 07.2011    | Twitter & ADN | [kaikubasta.de](http://kaikubasta.de/)         |                                                       | [@kaikubasta](http://twitter.com/kaikubasta)
+Quimoniz         | 07.2011    | Webseite      |                                                | [@quimoniz](https://alpha.app.net/quimoniz)           | [@quimoniz](https://twitter.com/quimoniz)
+kaeffchen heinz  | 07.2012    |               |                                                |                                                       | [@kaeffchen_heinz](https://twitter.com/kaeffchen_heinz)
+Simon Waldherr   | 07.2012    | Parser        | [simon.waldherr.eu](http://simon.waldherr.eu/) | [@simonwaldherr](https://alpha.app.net/simonwaldherr) | [@simonwaldherr](https://twitter.com/simonwaldherr)
+Evita Bley       | 08.2012    | Planung       | [podcascription.de](http://podcascription.de/) | [@evita](https://alpha.app.net/evita)                 | [@evitabley](https://twitter.com/evitabley)
+luto             |            | Pad           | [luto.at](http://luto.at/)                     | [@luto](https://alpha.app.net/luto)                   | [@luutoo](https://twitter.com/luutoo)
+Dr4k3            |            | Notification  | [fastreboot.de](http://fastreboot.de/)         | [@dr4k3](https://alpha.app.net/dr4k3)                 | [@dr4k3_LE](https://twitter.com/dr4k3_LE)
 
 ##Ziele
 
@@ -101,18 +94,27 @@ Dr4k3            |            | Notification  | [fastreboot.de](http://fastreboo
 
 ##Software \*
 
-\* *und andere Repositories*
+\* ***und andere Repositories***
 
-Beschreibung        | Entwicklungsbeginn | Hauptsprache | Maintainer | Repo
---------------------|--------------------|--------------|------------|------
-shownot.es Webseite | 08.2012            | HTML         | Quimoniz   | [shownot.es](https://github.com/shownotes/shownot.es)
-PHP OSF Parser      | 09.2012            | PHP          | Simon      | [OpenShownotesFormat](https://github.com/shownotes/OpenShownotesFormat)
-JS OSF Parser       | 03.2013            | JavaScript   | Simon      | [tinyOSF.js](https://github.com/shownotes/tinyOSF.js)
-ShowPad             | 03.2013            | node.js      | luto       | [show-pad](https://github.com/shownotes/show-pad)
-Shownotes WP Plugin | 04.2013            | PHP          | Simon      | [wp-osf-shownotes](https://github.com/SimonWaldherr/wp-osf-shownotes)
-OSF Definition      | 05.2013            | Markdown     | Simon      | [OSF-in-a-Nutshell](https://github.com/shownotes/OSF-in-a-Nutshell)
+Beschreibung           | Entwicklungsbeginn | Hauptsprache | Maintainer       | Repo
+-----------------------|--------------------|--------------|------------------|------
+shownot.es Webseite    | 08.2012            | HTML         | Quimoniz / Simon | [shownot.es](https://github.com/shownotes/shownot.es)
+PHP OSF Parser         | 09.2012            | PHP          | Simon            | [OpenShownotesFormat](https://github.com/shownotes/OpenShownotesFormat)
+Etherpad Bookmarklets  | 12.2012            | JavaScript   | Simon            | [EtherpadBookmarklets](https://github.com/shownotes/EtherpadBookmarklets)
+*insert Timestamp* ^1  | 01.2013            | JavaScript   | Simon            | [ep_insertTimestamp](https://github.com/shownotes/ep_insertTimestamp)
+*shownotes Changes* ^1 | 01.2013            | JavaScript   | luto             | [ep_shownotesChanges](https://github.com/shownotes/ep_shownotesChanges)
+JS OSF Parser ^2       | 03.2013            | JavaScript   | Simon            | [tinyOSF.js](https://github.com/shownotes/tinyOSF.js)
+ShowPad                | 03.2013            | node.js      | luto             | [show-pad](https://github.com/shownotes/show-pad)
+Shownotes WP Plugin    | 04.2013            | PHP          | Simon            | [wp-osf-shownotes](https://github.com/SimonWaldherr/wp-osf-shownotes)
+*ShowPad  Backup* ^1   | 04.2013            | JavaScript   | luto             | [show-pad-backup](https://github.com/shownotes/show-pad-backup)
+OSF Definition         | 05.2013            | Markdown     | Simon            | [OSF-in-a-Nutshell](https://github.com/shownotes/OSF-in-a-Nutshell)
+*chapter Bold* ^1      | 06.2013            | JavaScript   | luto             | [ep_chapterBold](https://github.com/shownotes/ep_chapterBold)
+Zeitangabe Parser      | 06.2013            | JavaScript   | Simon            | [parseTime.js](https://github.com/SimonWaldherr/parseTime.js)
 
-[visit github.com/shownotes](https://github.com/shownotes) to see the complete list
+^1) ShowPad Modul  
+^2) Sowohl als ShowPad Modul als auch Standalone  
+
+[besucht github.com/shownotes](https://github.com/shownotes) um die vollständige Liste zu sehen
 
 ---
 wie es sich für echte Shownoter gehört wurde auch dieser Text in unserem ShowPad geschrieben.
