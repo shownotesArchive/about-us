@@ -40,16 +40,16 @@ Als Teil des Shownot.es Teams war für uns [Evita Bley](https://alpha.app.net/ev
 
 ###Show Pad und Module ```03.2013```
 
-Im März 2013 begann die Arbeit an einem eigenen Pad, da uns das Piratenpad immer mehr an neuen Ideen hinderte. Dank der von [Simon](http://simon.waldherr.eu/) geschriebenen [Etherpad Bookmarklets](https://github.com/shownotes/EtherpadBookmarklets) wurde zwar mittlerweile die Zeitangabe automatisch eingefügt und auch ein einfacher Export als HTML oder Kapitelmarken Datei war möglich, allerdings wollten wir noch höher hinaus.  
-Zum Glück hat sich zu dieser Zeit [luto](http://luto.at/) dem Shownot.es Team angeschlossen und sich dazu bereit erklärt, das [EtherPad lite](https://github.com/ether/etherpad-lite) für uns anzupassen. Das EtherPad lite ist im Gegensatz zu dem vorher verwendeten EtherPad um einiges schlanker und somit auch performanter. Diese Schlankheit bringt aber auch einige Nachteile, wie zum Beispiel eine fehlendes Usermanagement mit sich, welches [luto](http://luto.at/) deshalb selbst umsetzen musste.  
-Neben dem Usermanagement, welches uns erfolgreich vor Trollen schützt wurden auch die [Etherpad Bookmarklets](https://github.com/shownotes/EtherpadBookmarklets) erweitert und ins neue Pad integriert. Da das ShowPad Modular aufgebaut ist kann man die Erweiterungen in deren eigene Repos finden. Das [insertTimestamp Modul](https://github.com/shownotes/ep_insertTimestamp) fügt die Zeitangaben ein und Synchronisiert die Uhrzeiten der Clients mit der des Servers.  
+Im März 2013 begann die Arbeit an einer eigenen Pad Software (kurz zuvor wurden bereits einige Module dafür geschrieben), da uns das Piratenpad immer mehr an neuen Ideen und möglichen Innovationen hinderte. Dank der von [Simon](http://simon.waldherr.eu/) geschriebenen [Etherpad Bookmarklets](https://github.com/shownotes/EtherpadBookmarklets) wurde zwar mittlerweile die Zeitangabe automatisch eingefügt und auch ein einfacher Export als HTML oder Kapitelmarken Datei (genauer gesagt mp4chaps) war möglich, allerdings wollten wir noch höher hinaus.  
+Zum Glück hat sich zu dieser Zeit [luto](http://luto.at/) dem Shownot.es Team angeschlossen und sich dazu bereit erklärt, das [EtherPad lite](https://github.com/ether/etherpad-lite) für uns anzupassen. Das EtherPad lite ist im Gegensatz zu dem vorher verwendeten EtherPad um einiges schlanker und somit auch performanter. Diese Schlankheit bringt aber auch einige Nachteile, wie zum Beispiel ein fehlendes Usermanagement mit sich, welches [luto](http://luto.at/) deshalb selbst umsetzen musste.  
+Neben dem Usermanagement, welches uns erfolgreich vor Trollen schützt wurden auch die [Etherpad Bookmarklets](https://github.com/shownotes/EtherpadBookmarklets) erweitert und ins neue Pad integriert. Da das ShowPad Modular aufgebaut ist kann man die Erweiterungen in deren eigene Repos finden. Das [insertTimestamp Modul](https://github.com/shownotes/ep_insertTimestamp) fügt die Zeitangaben ein und synchronisiert die Uhrzeiten der Clients mit der des Servers.  
 Ein weiteres Modul ist [tinyOSF](https://github.com/shownotes/tinyOSF.js) von [Simon](http://simon.waldherr.eu/), welches sich um die Umwandlung von OSF zu HTML, Markdown, mp4chaps-Kapitelmarken und einige weitere Formate kümmert.
 Um regelmäßige Backups der Pad Datenbank kümmert sich das [show-pad-backup Modul](https://github.com/shownotes/show-pad-backup) von [luto](http://luto.at/).
 
 ###Wordpress Plugin ```04.2013```
 
-Bisher mussten die Shownotes im Open Shownotes Format erst in einen von [Simon](http://simon.waldherr.eu/) geschriebenen OSF Parser (in PHP und JS verfügbar) geworfen werden, um weiterverwendbares HTML oder Chapterdaten zu bekommen, was jedoch einen unnötigen Mehraufwand für Podcaster bedeutet.
-Um die Shownotes auch einfach in die jeweiligen Blogs der Podcaster zu bringen hat [Simon](http://simon.waldherr.eu/) im April 2013 begonnen, ein [Shownotes Wordpress Plugin zu schreiben](https://github.com/shownotes/wp-osf-shownotes) welches die Shownotes direkt aus dem ShowPad lädt und ohne viele Klicks und fast völlig automatisierbar die Shownotes einbindet. Anfangs funktionierte das Plugin nur zusammen mit dem [Podlove Publisher](https://github.com/podlove/podlove-publisher), wurde aber auf [Tims](http://metaebene.me/timpritlove/) Wunsch später auch als eigenständiges Plugin released.
+Bis Anfang 2013 mussten die Shownotes im Open Shownotes Format erst in einen von [Simon](http://simon.waldherr.eu/) geschriebenen OSF Parser (in PHP und JS verfügbar) geworfen werden, um weiterverwendbares HTML oder Chapterdaten zu bekommen, was jedoch einen unnötigen Mehraufwand für Podcaster bedeutet.  
+Um die Shownotes auch einfach in die Blogs der jeweiligen Podcaster zu bringen hat [Simon](http://simon.waldherr.eu/) im April 2013 begonnen, ein [Shownotes Wordpress Plugin zu schreiben](https://github.com/shownotes/wp-osf-shownotes) welches die Shownotes direkt aus dem ShowPad lädt und ohne viele Klicks und fast völlig automatisierbar die Shownotes einbindet. Da [Simon](http://simon.waldherr.eu/) als einer der Entwickler des [Podlove Web Player](https://github.com/podlove/podlove-web-player)s schon einige Erfahrungen mit der Entwicklung von Wordpress Plugins sammeln konnte und bereits ein [OSF Parser in PHP](https://github.com/shownotes/OpenShownotesFormat) existierte konnte das [Shownotes Wordpress Plugin](https://github.com/shownotes/wp-osf-shownotes) schnell umgesetzt werden und gute Ergebnisse erziehlen. Anfangs funktionierte das Plugin nur zusammen mit dem [Podlove Publisher](https://github.com/podlove/podlove-publisher), wurde aber auf [Tims](http://metaebene.me/timpritlove/) Wunsch später auch als eigenständiges Plugin released.
 
 ###PPW13 und RP13 ```05.2013```
 
@@ -69,7 +69,6 @@ und wenn sie nicht gestorben sind, dann Shownoten sie noch heute
 
 ##Mitglieder
 
-```einfach eintragen, ich werde das ganze dann nach "dabei seit" sortieren oder wir lassen es einfach so, wie ihr wollt```  
 ```mir waere es lieber, wenn jeder seinen Realnamen eintragen wuerde, aber macht wie ihr wollt```   
 
 Name             | aktiv seit | Zuständig für | Webseite                                       | App.net                                               | Twitter
@@ -116,3 +115,10 @@ Zeitangabe Parser      | 06.2013            | JavaScript   | Simon            | 
 ^2) Sowohl als ShowPad Modul als auch Standalone  
 
 [besucht github.com/shownotes](https://github.com/shownotes) um die vollständige Liste zu sehen
+
+##Finanzen
+
+Shownot.es ist kein gewinnorientiertes Projekt und stellt alle Entwicklungen unter möglichst freien Lizenzen zur Verfügung (Die Shownotes selbst sind CC0 und das meiste des Codes steht unter der MIT Lizenz zur Verfügung). Da uns aber durch das zur Verfügung stellen des Pads, der Webseite und der restlichen Tools Hostingkosten entstehen und wir auch unsere wertvolle Zeit in das Projekt stecken würden wir uns über Spenden und Flattr Klicks freuen.  
+Wir sind dankbar für jeden Cent, der uns hilft, die Hostinggebühren zu bezahlen. Sollte irgendwann genug zusammen kommen, um auch unsere Reisekosten zu verschiedenen Podcaster Events (Chaos Communication Congress, Re:publica, …) zu bezahlen wären wir überaus glücklich.
+
+Flattrn könnt ihr das Projekt auf jeder Shownotes Seite und auf [unserer Flattr Profil Seite](https://flattr.com/profile/shownotes). 
