@@ -1,4 +1,4 @@
-#über Shownot.es
+#über [Shownot.es](http://shownot.es/)
 
 ##Geschichte
 
@@ -18,13 +18,13 @@ Es fanden erste Überlegungen statt, unter einem Namen "Shownotes"  Sendungsnoti
 
 ###Mehr Aufmerksamkeit ```01.2012```
 
-Tim Pritlove wird aufmerksam auf die Shownotes, er äussert den Wunsch, schöner formatierte Shownotes haben zu wollen. Es gab erste Standardisierungsansätze, die schliesslich ein 3/4 Jahr später zum OSF gewachsen sind.
-Es werden vermehrt Zeitangaben gesetzt und der [ePirat](http://epirat.de/) hat ein Uhr Script geschrieben, deren Angaben (Laufzeit des Streams) noch händisch abgeschrieben werden mussten.
+Tim Pritlove wurde Anfang 2012 auf das Shownotes Projekt aufmerksam, er äussert den Wunsch, schöner formatierte Shownotes haben zu wollen. Daraufhin gab es erste Standardisierungsansätze, die schliesslich ein Jahr später zum OSF gewachsen sind.
+Es wurden vermehrt Zeitangaben gesetzt, welche anfangs noch händisch von einem vom [ePirat](http://epirat.de/) geschriebenen Uhr (Stream Laufzeit) Script abgeschrieben werden mussten.
 
-###Shownot.es ```08.2012```
+###Hola Shownot.es ```08.2012```
 
 Im August 2012 sponserte [Simon Waldherr](http://simon.waldherr.eu/) dem Shownotes Projekt die Domain [Shownot.es](http://shownot.es/). Mit der neuen Domain drängte sich dann auch eine schöne Webseite mit einer Übersicht der Shownotes auf.  
-Diese Webseite wurde hauptsächlich von [Quimoniz](https://alpha.app.net/quimoniz) und [Simon](http://simon.waldherr.eu/) geschrieben und aktuell gehalten. Auf der Webseite werden die geparsten Versionen der Shownotes angeboten, wobei [die Shownotes zusätzlich auf auf GitHub](https://github.com/shownotes/shownot.es) zu finden sind und vollständig unter der [CC0 Lizenz](http://creativecommons.org/publicdomain/zero/1.0/) stehen.
+Diese Webseite wurde hauptsächlich von [Quimoniz](https://alpha.app.net/quimoniz) und [Simon](http://simon.waldherr.eu/) geschrieben und aktuell gehalten. Auf der Webseite werden die geparsten Versionen der Shownotes angeboten, wobei [die Shownotes zusätzlich auch auf auf GitHub](https://github.com/shownotes/shownot.es) zu finden sind und vollständig unter der [CC0 Lizenz](http://creativecommons.org/publicdomain/zero/1.0/) stehen.
 
 ###Open Shownotes Format ```09.2012```
 
@@ -48,7 +48,8 @@ Um regelmäßige Backups der Pad Datenbank kümmert sich das [show-pad-backup Mo
 
 ###Wordpress Plugin ```04.2013```
 
-Um die Shownotes auch einfach in die jeweiligen Blogs der Podcaster zu bringen hat [Simon](http://simon.waldherr.eu/) im April 2013 begonnen, ein [Shownotes Wordpress Plugin zu schreiben](https://github.com/shownotes/wp-osf-shownotes) welches Anfangs nur zusammen mit dem [Podlove Publisher](https://github.com/podlove/podlove-publisher) funktionierte, aber auf Tims Wunsch später auch als eigenständiges Plugin released wurde.
+Bisher mussten die Shownotes im Open Shownotes Format erst in einen von [Simon](http://simon.waldherr.eu/) geschriebenen OSF Parser (in PHP und JS verfügbar) geworfen werden, um weiterverwendbares HTML oder Chapterdaten zu bekommen, was jedoch einen unnötigen Mehraufwand für Podcaster bedeutet.
+Um die Shownotes auch einfach in die jeweiligen Blogs der Podcaster zu bringen hat [Simon](http://simon.waldherr.eu/) im April 2013 begonnen, ein [Shownotes Wordpress Plugin zu schreiben](https://github.com/shownotes/wp-osf-shownotes) welches die Shownotes direkt aus dem ShowPad lädt und ohne viele Klicks und fast völlig automatisierbar die Shownotes einbindet. Anfangs funktionierte das Plugin nur zusammen mit dem [Podlove Publisher](https://github.com/podlove/podlove-publisher), wurde aber auf [Tims](http://metaebene.me/timpritlove/) Wunsch später auch als eigenständiges Plugin released.
 
 ###PPW13 und RP13 ```05.2013```
 
@@ -115,7 +116,3 @@ Zeitangabe Parser      | 06.2013            | JavaScript   | Simon            | 
 ^2) Sowohl als ShowPad Modul als auch Standalone  
 
 [besucht github.com/shownotes](https://github.com/shownotes) um die vollständige Liste zu sehen
-
----
-wie es sich für echte Shownoter gehört wurde auch dieser Text in unserem ShowPad geschrieben.
-
