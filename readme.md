@@ -1,5 +1,6 @@
 #über [Shownot.es](http://shownot.es/)
 
+
 ##Geschichte
 
 ###Am Anfang war das (gesprochene) Wort ```07.2011```
@@ -7,12 +8,12 @@
 Es war einmal vor langer, langer Zeit, genauer gesagt [am Freitag 15. Juli 2011, 19 Uhr](http://www.wrint.de/2011/07/15/kl010011-ferngesprache-iii/#more-301), als sich einige Podcasthörer zusammen fanden und bereit waren, die Welt zu verändern.  
 Anfangs wurde das [Piratenpad](http://www.piratenpad.de/) ([Etherpad](http://de.wikipedia.org/wiki/EtherPad) der [Piratenpartei](http://www.piratenpartei.de/)) in einem nicht näher definiertem Format geschrieben.  
 Gefüllt wurde es mit Links und mit Text der erwähnenswert schien. Zu jenen Tagen sprach man über den [exklusionistischen Charakter der deutschen Wikipedia](http://de.wiktionary.org/wiki/Exklusionist) und wir wollten Inklusionisten sein. So schrieben wir große Mengen an Text, fast völlig ohne eine Formatierung zu haben.  
-Nach einem Dutzend an Sendungen wuchs in manchen der Ehrgeiz kontinuierlich Shownotes für die WRINT Episoden zu schreiben. Wir wollten für alle Hörer eine Möglichkeit bieten, die relevanten Links und Verweise in den 3- bis 4-stündigen Sendung zusammen an einem Ort zu haben und die Sendung thematisch überblicken zu können.
+Nach einem Dutzend an Sendungen wuchs in manchen der Ehrgeiz kontinuierlich Shownotes für die [WRINT](http://wrint.de/) Episoden zu schreiben. Wir wollten für alle Hörer eine Möglichkeit bieten, die relevanten Links und Verweise in den 3- bis 4-stündigen Sendung zusammen an einem Ort zu haben und die Sendung thematisch überblicken zu können.
 Das ursprüngliche Ziel hat sich bis heute nicht stark verändert, wir wollen für möglichst viele Audioinhalte zusätzliche Daten sammeln, zusammenführen und somit Podcasts leichter durchsuchbar und erwähnte Webseiten, Produkte, Personen, … leichter auffindbar machen. Wir lieben Metadaten!  
 
 ###Den Piraten sei gedankt ```11.2011```
 
-Es hat sich eine Gruppe von Personen herausgebildet die regelmäßig Shownotes schreiben und die [Piraten-IT](https://wiki.piratenpartei.de/IT) hat eine [Team-Instanz für das Shownotes Team angelegt](https://shownotes.piratenpad.de/).
+Es hat sich eine Gruppe von Personen herausgebildet die regelmäßig Shownotes schreiben und von der [Piraten-IT](https://wiki.piratenpartei.de/IT) hatten wir eine [Team-Instanz für das Shownotes Team bekommen](https://shownotes.piratenpad.de/).
 Das ermöglichte es, die Shownotes auf einer Seite halbwegs übersichtlich zu haben und diese erstmalig vor Vandalismus zu schützen.
 Es fanden erste Überlegungen statt, unter einem Namen "Shownotes"  Sendungsnotizen zu schreiben, neben WRINT wurde damals auch begonnen regelmäßig Shownotes für NSFW zu schreiben.
 
@@ -44,7 +45,8 @@ Im März 2013 begann die Arbeit an einer eigenen Pad Software (kurz zuvor wurden
 Zum Glück hat sich zu dieser Zeit [luto](http://luto.at/) dem Shownot.es Team angeschlossen und sich dazu bereit erklärt, das [EtherPad lite](https://github.com/ether/etherpad-lite) für uns anzupassen. Das EtherPad lite ist im Gegensatz zu dem vorher verwendeten EtherPad um einiges schlanker und somit auch performanter. Diese Schlankheit bringt aber auch einige Nachteile, wie zum Beispiel ein fehlendes Usermanagement mit sich, welches [luto](http://luto.at/) deshalb selbst umsetzen musste.  
 Neben dem Usermanagement, welches uns erfolgreich vor Trollen schützt wurden auch die [Etherpad Bookmarklets](https://github.com/shownotes/EtherpadBookmarklets) erweitert und ins neue Pad integriert. Da das ShowPad Modular aufgebaut ist kann man die Erweiterungen in deren eigene Repos finden. Das [insertTimestamp Modul](https://github.com/shownotes/ep_insertTimestamp) fügt die Zeitangaben ein und synchronisiert die Uhrzeiten der Clients mit der des Servers.  
 Ein weiteres Modul ist [tinyOSF](https://github.com/shownotes/tinyOSF.js) von [Simon](http://simon.waldherr.eu/), welches sich um die Umwandlung von OSF zu HTML, Markdown, mp4chaps-Kapitelmarken und einige weitere Formate kümmert.
-Um regelmäßige Backups der Pad Datenbank kümmert sich das [show-pad-backup Modul](https://github.com/shownotes/show-pad-backup) von [luto](http://luto.at/).
+Um regelmäßige Backups der Pad Datenbank kümmert sich das [show-pad-backup Modul](https://github.com/shownotes/show-pad-backup) von [luto](http://luto.at/).  
+Dieses eigene Pad erleichtert uns die Arbeit enorm, zusätzlich zu den bereits genannten Features werden Pads für Sendungen durch die [Hörsuppen](http://hoersuppe.de/) [API](http://hoersuppe.de/feature/api.txt) angelegt.
 
 ###Wordpress Plugin ```04.2013```
 
@@ -65,11 +67,12 @@ Ausserdem hatten wir am 02. Juli eine Skype Konferenz mit allen Mitgliedern des 
 
 ---
 
-und wenn sie nicht gestorben sind, dann Shownoten sie noch heute
+*und wenn sie nicht gestorben sind, dann Shownoten sie noch heute*
+
 
 ##Mitglieder
 
-```mir waere es lieber, wenn jeder seinen Realnamen eintragen wuerde, aber macht wie ihr wollt```   
+```Jeder der oeffentlich genannt werden will soll sich bitte hier eintragen. Mir waere es lieber, wenn jeder seinen Realnamen eintragen wuerde, aber macht wie ihr wollt```   
 
 Name             | aktiv seit | Zuständig für | Webseite                                       | App.net                                               | Twitter
 -----------------|------------|---------------|------------------------------------------------|-------------------------------------------------------|------------------------
@@ -80,6 +83,8 @@ Simon Waldherr   | 07.2012    | Parser        | [simon.waldherr.eu](http://simon
 Evita Bley       | 08.2012    | Planung       | [podcascription.de](http://podcascription.de/) | [@evita](https://alpha.app.net/evita)                 | [@evitabley](https://twitter.com/evitabley)
 luto             |            | Pad           | [luto.at](http://luto.at/)                     | [@luto](https://alpha.app.net/luto)                   | [@luutoo](https://twitter.com/luutoo)
 Dr4k3            |            | Notification  | [fastreboot.de](http://fastreboot.de/)         | [@dr4k3](https://alpha.app.net/dr4k3)                 | [@dr4k3_LE](https://twitter.com/dr4k3_LE)
+…                | …          | …             | …                                              | …                                                     | …       
+
 
 ##Ziele
 
@@ -110,11 +115,13 @@ Shownotes WP Plugin    | 04.2013            | PHP          | Simon            | 
 OSF Definition         | 05.2013            | Markdown     | Simon            | [OSF-in-a-Nutshell](https://github.com/shownotes/OSF-in-a-Nutshell)
 *chapter Bold* ^1      | 06.2013            | JavaScript   | luto             | [ep_chapterBold](https://github.com/shownotes/ep_chapterBold)
 Zeitangabe Parser      | 06.2013            | JavaScript   | Simon            | [parseTime.js](https://github.com/SimonWaldherr/parseTime.js)
+Notification Dienst    | 06.2013            | Perl         | Dr4k3            | [shownotes-message-service](https://github.com/Drake81/shownotes-message-service)
 
 ^1) ShowPad Modul  
 ^2) Sowohl als ShowPad Modul als auch Standalone  
 
 [besucht github.com/shownotes](https://github.com/shownotes) um die vollständige Liste zu sehen
+
 
 ##Finanzen
 
@@ -122,3 +129,8 @@ Shownot.es ist kein gewinnorientiertes Projekt und stellt alle Entwicklungen unt
 Wir sind dankbar für jeden Cent, der uns hilft, die Hostinggebühren zu bezahlen. Sollte irgendwann genug zusammen kommen, um auch unsere Reisekosten zu verschiedenen Podcaster Events (Chaos Communication Congress, Re:publica, …) zu bezahlen wären wir überaus glücklich.
 
 Flattrn könnt ihr das Projekt auf jeder Shownotes Seite und auf [unserer Flattr Profil Seite](https://flattr.com/profile/shownotes). 
+
+
+##Weitere Infos
+
+Wer noch weitere Infos sucht kann sich gerne mit uns im IRC auf freenode.net ([Webchat](http://webchat.freenode.net/?channels=%23shownotes)) unterhalten. Ausserdem könnt ihr uns auch auf [Twitter](https://twitter.com/dieshownotes) und [App.net](https://alpha.app.net/shownotes) erreichen. Wer uns auf nicht öffentlichen Wege erreichen möchte kann uns auch über [unser Kontaktformular](http://shownot.es/contact/) erreichen. Wenn ihr uns über andere Kontaktmöglichkeiten erreichen wollt (z.B. XMPP, Mail, Skype, Post, Brieftaube, …) könnt ihr gerne danach Fragen.
