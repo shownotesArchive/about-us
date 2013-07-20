@@ -1,6 +1,13 @@
 #über [Shownot.es](http://shownot.es/)
 
 
+##Show Notes
+
+als "Shownotes" (engl. show notes, "Sendungsnotizen"/"Mitschriften") werden ergänzende und zusammenfassende Notizen und Texte bezeichnet. Vor allem bei Podcasts hat es sich durchgesetzt, dass solche Mitschriften und Linksammlungen zusammen mit den Audioinhalten angeboten werden.  
+Vor allem bei längeren Texten bieten die Shownotes eine schnelle Übersicht über den Inhalt und durch die Links kann man sich als Hörer selbst eine Meinung der besprochenen Inhalte machen oder erwähnte Produkte kaufen.  
+Shownotes können in vieler Weiße den Inhalt eines Podcasts wiederspiegeln, neben chronologischer Sortierung gibt es auch thematisch sortierte Shownotes und sogar grafische Darstellungsarten (wie z.B. Mindmaps und Diagramme).
+
+
 ##Geschichte
 
 ###Am Anfang war das (gesprochene) Wort ```07.2011```
@@ -65,6 +72,13 @@ Auf dem [PPW13](http://metaebene.me/blog/2013/03/15/podlove-podcaster-workshop/)
 Aus diesem Grund haben sich im Juni [Evita](https://alpha.app.net/evita) und [Simon](http://simon.waldherr.eu/) mit einigen Podcastern in Berlin getroffen und an neuen Ideen gefeilt.  
 Ausserdem hatten wir am 02. Juli eine Skype Konferenz mit allen Mitgliedern des Kernteams, künftig wollen wir dies mindestens einmal im Monat machen.
 
+###Ein Blick in die Zukunft
+
+Im Anschluss an das letzte Treffen fuhr [Simon](http://simon.waldherr.eu/) noch zu [Dr4k3](http://fastreboot.de/) um über die Zukunft zu sprechen. Neben Überlegungen was die Durchsuchbarkeit der Shownotes angeht haben wir auch über Notifications gesprochen.  
+Weitere Pläne bestehen auch für die Analyse der Texte um zum Beispiel Vorhersagen automatisch in eine Datenbank einzutragen und bei erreichen des Zeitpunkts zu kennzeichnen. Des weiteren wird auch an einem Tool gearbeitet, um Shownotes auch im Nachhinein einfacher schreiben zu können.
+Um auch die Integration in Wordpress noch weiter zu verbessern werden auch weiterhin Updates für das Shownotes Wordpress Plugin erscheinen.  
+Zusätzlich finden derzeit auch Planungen bzgl. eines Podcast Informa
+
 ---
 
 *und wenn sie nicht gestorben sind, dann Shownoten sie noch heute*
@@ -74,16 +88,16 @@ Ausserdem hatten wir am 02. Juli eine Skype Konferenz mit allen Mitgliedern des 
 
 ```Jeder der oeffentlich genannt werden will soll sich bitte hier eintragen. Mir waere es lieber, wenn jeder seinen Realnamen eintragen wuerde, aber macht wie ihr wollt```   
 
-Name             | aktiv seit | Zuständig für | Webseite                                       | App.net                                               | Twitter
------------------|------------|---------------|------------------------------------------------|-------------------------------------------------------|------------------------
-Kai              | 07.2011    | Twitter & ADN | [kaikubasta.de](http://kaikubasta.de/)         |                                                       | [@kaikubasta](http://twitter.com/kaikubasta)
-Quimoniz         | 07.2011    | Webseite      |                                                | [@quimoniz](https://alpha.app.net/quimoniz)           | [@quimoniz](https://twitter.com/quimoniz)
-kaeffchen heinz  | 07.2012    |               |                                                |                                                       | [@kaeffchen_heinz](https://twitter.com/kaeffchen_heinz)
-Simon Waldherr   | 07.2012    | Parser        | [simon.waldherr.eu](http://simon.waldherr.eu/) | [@simonwaldherr](https://alpha.app.net/simonwaldherr) | [@simonwaldherr](https://twitter.com/simonwaldherr)
-Evita Bley       | 08.2012    | Planung       | [podcascription.de](http://podcascription.de/) | [@evita](https://alpha.app.net/evita)                 | [@evitabley](https://twitter.com/evitabley)
-luto             |            | Pad           | [luto.at](http://luto.at/)                     | [@luto](https://alpha.app.net/luto)                   | [@luutoo](https://twitter.com/luutoo)
-Dr4k3            |            | Notification  | [fastreboot.de](http://fastreboot.de/)         | [@dr4k3](https://alpha.app.net/dr4k3)                 | [@dr4k3_LE](https://twitter.com/dr4k3_LE)
-…                | …          | …             | …                                              | …                                                     | …       
+Name             | aktiv seit | Zuständig für | Webseite                                       | App.net                                               | Twitter                                                 | GitHub 
+-----------------|------------|---------------|------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------|--------
+Kai              | 07.2011    | Twitter & ADN | [kaikubasta.de](http://kaikubasta.de/)         |                                                       | [@kaikubasta](http://twitter.com/kaikubasta)            | [@kaikubasta](https://github.com/kaikubasta)
+Lars             | 07.2011    | Webseite      |                                                | [@quimoniz](https://alpha.app.net/quimoniz)           | [@quimoniz](https://twitter.com/quimoniz)               | [@Quimoniz](https://github.com/Quimoniz)
+kaeffchen heinz  | 07.2012    |               |                                                |                                                       | [@kaeffchen_heinz](https://twitter.com/kaeffchen_heinz) | 
+Simon Waldherr   | 07.2012    | Parser        | [simon.waldherr.eu](http://simon.waldherr.eu/) | [@simonwaldherr](https://alpha.app.net/simonwaldherr) | [@simonwaldherr](https://twitter.com/simonwaldherr)     | [@SimonWaldherr](https://github.com/SimonWaldherr)
+Evita Bley       | 08.2012    | Planung       | [podcascription.de](http://podcascription.de/) | [@evita](https://alpha.app.net/evita)                 | [@evitabley](https://twitter.com/evitabley)             | [@evitabley](https://github.com/evitabley)
+luto             |            | Pad           | [luto.at](http://luto.at/)                     | [@luto](https://alpha.app.net/luto)                   | [@luutoo](https://twitter.com/luutoo)                   | [@Drake81](https://github.com/Drake81)
+M. Stoffers      | 02.2013    | Notification  | [fastreboot.de](http://fastreboot.de/)         | [@dr4k3](https://alpha.app.net/dr4k3)                 | [@dr4k3_LE](https://twitter.com/dr4k3_LE)               | [@luto](https://github.com/luto)
+…                | …          | …             | …                                              | …                                                     | …                                                       | 
 
 
 ##Ziele
@@ -125,7 +139,7 @@ Notification Dienst    | 06.2013            | Perl         | Dr4k3            | 
 
 ##Finanzen
 
-Shownot.es ist kein gewinnorientiertes Projekt und stellt alle Entwicklungen unter möglichst freien Lizenzen zur Verfügung (Die Shownotes selbst sind CC0 und das meiste des Codes steht unter der MIT Lizenz zur Verfügung). Da uns aber durch das zur Verfügung stellen des Pads, der Webseite und der restlichen Tools Hostingkosten entstehen und wir auch unsere wertvolle Zeit in das Projekt stecken würden wir uns über Spenden und Flattr Klicks freuen.  
+Shownot.es ist kein gewinnorientiertes Projekt und stellt alle Entwicklungen unter möglichst freien Lizenzen zur Verfügung (Die Shownotes selbst sind CC0 und das meiste des Codes steht unter der MIT Lizenz zur Verfügung). Da uns aber durch die Zur­ver­fü­gung­stel­lung des Pads, der Webseite und der restlichen Tools Hostingkosten entstehen und wir auch unsere wertvolle Zeit in das Projekt stecken würden wir uns über Spenden und Flattr Klicks freuen.  
 Wir sind dankbar für jeden Cent, der uns hilft, die Hostinggebühren zu bezahlen. Sollte irgendwann genug zusammen kommen, um auch unsere Reisekosten zu verschiedenen Podcaster Events (Chaos Communication Congress, Re:publica, …) zu bezahlen wären wir überaus glücklich.
 
 Flattrn könnt ihr das Projekt auf jeder Shownotes Seite und auf [unserer Flattr Profil Seite](https://flattr.com/profile/shownotes). 
