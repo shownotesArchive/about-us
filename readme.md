@@ -4,8 +4,8 @@
 ##Show Notes
 
 Als "Shownotes" (engl. show notes, "Sendungsnotizen"/"Mitschriften") werden ergänzende und zusammenfassende Notizen und Texte bezeichnet. Vor allem bei Podcasts hat es sich durchgesetzt, dass solche Mitschriften und Linksammlungen zusammen mit den Audioinhalten angeboten werden.  
-Vor allem bei längeren Texten bieten die Shownotes eine schnelle Übersicht über den Inhalt und durch die Links kann man sich als Hörer selbst eine Meinung der besprochenen Inhalte machen oder erwähnte Produkte kaufen.  
-Shownotes können in vieler Weiße den Inhalt eines Podcasts widerspiegeln, neben chronologischer Sortierung gibt es auch thematisch sortierte Shownotes und sogar grafische Darstellungsarten (wie z.B. Mindmaps und Diagramme).
+Vor allem bei längeren Episoden bieten die Shownotes eine schnelle Übersicht über den Inhalt und durch die Links kann man sich als Hörer selbst eine Meinung der besprochenen Inhalte machen oder erwähnte Produkte kaufen.  
+Shownotes können in vielfacher Weiße den Inhalt eines Podcasts widerspiegeln, neben chronologischer Sortierung gibt es auch thematisch sortierte Shownotes und sogar grafische Darstellungsarten (wie z.B. Mindmaps und Diagramme).
 
 
 ##Geschichte
@@ -15,21 +15,19 @@ Shownotes können in vieler Weiße den Inhalt eines Podcasts widerspiegeln, nebe
 Es war einmal vor langer, langer Zeit, genauer gesagt [am Freitag 15. Juli 2011, 19 Uhr](http://www.wrint.de/2011/07/15/kl010011-ferngesprache-iii/#more-301), als sich einige Podcasthörer zusammenfanden und bereit waren, die Welt zu verändern.  
 Anfangs wurde das [Piratenpad](http://www.piratenpad.de/) ([Etherpad](http://de.wikipedia.org/wiki/EtherPad) der [Piratenpartei](http://www.piratenpartei.de/)) verwendet und die Shownotes in einem nicht näher definierten Format geschrieben.  
 Gefüllt wurde es mit Links und mit Text, der erwähnenswert schien. Zu jenen Tagen sprach man über den [exklusionistischen Charakter der deutschen Wikipedia](http://de.wiktionary.org/wiki/Exklusionist) und wir wollten Inklusionisten sein. So schrieben wir große Mengen an Text, fast völlig ohne eine Formatierung zu haben.  
-Nach einem Dutzend an Sendungen wuchs in manchen der Ehrgeiz kontinuierlich Shownotes für die [WRINT](http://wrint.de/) Episoden zu schreiben. Wir wollten für alle Hörer eine Möglichkeit bieten, die relevanten Links und Verweise in den 3- bis 4-stündigen Sendung zusammen an einem Ort zu haben und die Sendung thematisch überblicken zu können.
-Das ursprüngliche Ziel hat sich bis heute nicht stark verändert, wir wollen für möglichst viele Audioinhalte zusätzliche Daten sammeln, zusammenführen und somit Podcasts leichter durchsuchbar, sowie erwähnte Webseiten, Produkte, Personen, … leichter auffindbar machen.  
-
-Wir lieben Metadaten!  
+Nach einem Dutzend an Sendungen wuchs in manchen der Ehrgeiz kontinuierlich Shownotes für die [WRINT](http://wrint.de/) Episoden zu schreiben. Wir wollten für alle Hörer eine Möglichkeit bieten, die relevanten Links und Verweise in den 3- bis 4-stündigen Sendung zusammen an einem Ort zu haben um die Sendung thematisch überblicken zu können.
+Das ursprüngliche Ziel hat sich bis heute nicht stark verändert, wir wollen für möglichst viele Audioinhalte zusätzliche Daten sammeln, zusammenführen und somit Podcasts leichter durchsuchbar, sowie erwähnte Webseiten, Produkte, Personen, … leichter auffindbar machen.   
 
 ###Den Piraten sei gedankt ```11.2011```
 
 Es hat sich eine Gruppe von Personen herausgebildet, welche regelmäßig Shownotes schreiben und von der [Piraten-IT](https://wiki.piratenpartei.de/IT) hatten wir eine [Team-Instanz für das Shownotes Team bekommen](https://shownotes.piratenpad.de/).
-Das ermöglichte es, die Shownotes auf einer Seite halbwegs übersichtlich zu haben und diese erstmalig vor Vandalismus zu schützen.
+Dies ermöglichte es uns, die Shownotes übersichtlich auf einer Seite zu haben und diese erstmalig vor Vandalismus zu schützen.
 Es fanden erste Überlegungen statt, unter einem Namen "Shownotes"  Sendungsnotizen zu schreiben, neben WRINT wurde damals auch begonnen regelmäßig Shownotes für NSFW zu schreiben.
 
 ###Mehr Aufmerksamkeit ```01.2012```
 
-Tim Pritlove wurde Anfang 2012 auf das Shownotes Projekt aufmerksam, er äußert den Wunsch, schöner formatierte Shownotes haben zu wollen. Daraufhin gab es erste Standardisierungsansätze, die schließlich ein Jahr später zum OSF gewachsen sind.
-Es wurden vermehrt Zeitangaben gesetzt, welche anfangs noch händisch von einem vom [ePirat](http://epirat.de/) geschriebenen Uhr (Stream Laufzeit) Script, abgeschrieben werden mussten.
+Tim Pritlove wurde Anfang 2012 auf das Shownotes Projekt aufmerksam, er äußert den Wunsch, schöner formatierte Shownotes haben zu wollen. Daraufhin gab es anfangs sehr zögerlich erste Standardisierungsansätze, die schließlich ein Jahr später zum OSF gewachsen sind.
+Es wurden vermehrt Zeitangaben gesetzt, welche jedoch noch händisch von einem vom [ePirat](http://epirat.de/) geschriebenen Uhr (Stream Laufzeit) Script, abgeschrieben werden mussten.
 
 ###Hola Shownot.es ```08.2012```
 
@@ -97,8 +95,8 @@ Lars             | 07.2011    | Webseite      |                                 
 kaeffchen heinz  | 07.2012    |               |                                                |                                                       | [@kaeffchen_heinz](https://twitter.com/kaeffchen_heinz) | 
 Simon Waldherr   | 07.2012    | Parser        | [simon.waldherr.eu](http://simon.waldherr.eu/) | [@simonwaldherr](https://alpha.app.net/simonwaldherr) | [@simonwaldherr](https://twitter.com/simonwaldherr)     | [@SimonWaldherr](https://github.com/SimonWaldherr)
 Evita Bley       | 08.2012    | Planung       | [podcascription.de](http://podcascription.de/) | [@evita](https://alpha.app.net/evita)                 | [@evitabley](https://twitter.com/evitabley)             | [@evitabley](https://github.com/evitabley)
-luto             |            | Pad           | [luto.at](http://luto.at/)                     | [@luto](https://alpha.app.net/luto)                   | [@luutoo](https://twitter.com/luutoo)                   | [@Drake81](https://github.com/Drake81)
-M. Stoffers      | 02.2013    | Notification  | [fastreboot.de](http://fastreboot.de/)         | [@dr4k3](https://alpha.app.net/dr4k3)                 | [@dr4k3_LE](https://twitter.com/dr4k3_LE)               | [@luto](https://github.com/luto)
+luto             |            | Pad           | [luto.at](http://luto.at/)                     | [@luto](https://alpha.app.net/luto)                   | [@luutoo](https://twitter.com/luutoo)                   | [@luto](https://github.com/luto)
+M. Stoffers      | 02.2013    | Notification  | [fastreboot.de](http://fastreboot.de/)         | [@dr4k3](https://alpha.app.net/dr4k3)                 | [@dr4k3_LE](https://twitter.com/dr4k3_LE)               | [@Drake81](https://github.com/Drake81)
 …                | …          | …             | …                                              | …                                                     | …                                                       | 
 
 
@@ -141,12 +139,12 @@ Notification Dienst    | 06.2013            | Perl         | Dr4k3            | 
 
 ##Finanzen
 
-Shownot.es ist kein gewinnorientiertes Projekt und stellt alle Entwicklungen unter möglichst freien Lizenzen zur Verfügung (die Shownotes selbst sind CC0 und das meiste des Codes steht unter der MIT Lizenz zur Verfügung). Da uns aber durch die Zur­ver­fü­gung­stel­lung des Pads, der Webseite und der restlichen Tools Hostingkosten entstehen und wir auch unsere wertvolle Zeit in das Projekt stecken, würden wir uns über Spenden und Flattr Klicks freuen.  
-Wir sind dankbar für jeden Cent, der uns hilft, die Hostinggebühren zu bezahlen. Sollte irgendwann genug zusammenkommen, um auch unsere Reisekosten zu verschiedenen Podcaster Events (Chaos Communication Congress, Re:publica, …) zu bezahlen wären wir überaus glücklich.
+Shownot.es ist kein gewinnorientiertes Projekt und stellt alle Entwicklungen unter möglichst freien Lizenzen zur Verfügung (die Shownotes selbst sind [CC0 (Public Domain)](http://creativecommons.org/publicdomain/zero/1.0/) und der Großteil des Codes steht unter der MIT Lizenz zu jeglicher Konsumierung, Nutzung, Veränderung und Weiterverbreitung zur Verfügung). Da uns aber durch die Zur­ver­fü­gung­stel­lung des Pads, der Webseite und der restlichen Tools Hostingkosten entstehen und wir auch unsere wertvolle Zeit in das Projekt stecken, würden wir uns über Spenden und Flattr Klicks freuen.  
+Wir sind dankbar für jeden Cent, der uns hilft, die Hostinggebühren zu bezahlen. Sollte irgendwann genug zusammenkommen, um auch unsere Reisekosten zu verschiedenen Events (Chaos Communication Congress, Re:publica, …) zu bezahlen wären wir überaus glücklich.
 
-Flattrn könnt ihr das Projekt auf jeder Shownotes Seite und auf [unserer Flattr Profil Seite](https://flattr.com/profile/shownotes). 
+Flattrn könnt ihr uns und das Projekt auf jeder Shownotes Seite und auf [unserer Flattr Profil Seite](https://flattr.com/profile/shownotes). 
 
 
 ##Weitere Infos
 
-Wer noch weitere Infos sucht, kann sich gerne mit uns im IRC auf freenode.net ([Webchat](http://webchat.freenode.net/?channels=%23shownotes)) unterhalten. Außerdem könnt ihr uns auch auf [Twitter](https://twitter.com/dieshownotes) und [App.net](https://alpha.app.net/shownotes) erreichen. Wer uns auf nicht öffentlichen Wegen erreichen möchte, kann uns auch über [unser Kontaktformular](http://shownot.es/contact/) erreichen. Wenn ihr uns über andere Kontaktmöglichkeiten erreichen wollt, (z.B. XMPP, Mail, Skype, Post, Brieftaube, …) könnt ihr gerne danach Fragen.
+Wer noch weitere Infos sucht, kann sich gerne mit uns im IRC auf freenode.net ([Webchat](http://webchat.freenode.net/?channels=%23shownotes)) unterhalten. Außerdem könnt ihr uns auch auf [Twitter](https://twitter.com/dieshownotes) und [App.net](https://alpha.app.net/shownotes) erreichen. Wer uns auf nicht öffentlichen Wegen erreichen möchte, kann uns auch über [unser Kontaktformular](http://shownot.es/contact/) erreichen. Wenn ihr uns über andere Kontaktmöglichkeiten erreichen wollt, (z.B. XMPP, Mail (gerne auch GPG-verschlüsselt), Skype, Post, Brieftaube, …) könnt ihr gerne danach Fragen. Die folgenden Kommunikationswege lehnen wir jedoch grundsätzlich ab: Facebook, Whatsapp, De-Mail, E-Postbrief
