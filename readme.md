@@ -12,10 +12,10 @@ Shownotes können in vielfacher Weiße den Inhalt eines Podcasts widerspiegeln, 
 
 ###Am Anfang war das (gesprochene) Wort ```07.2011```
 
-Es war einmal vor langer, langer Zeit, genauer gesagt [am Freitag 15. Juli 2011, 19 Uhr](http://www.wrint.de/2011/07/15/kl010011-ferngesprache-iii/#more-301), als sich einige Podcasthörer zusammenfanden und bereit waren, die Welt zu verändern.  
+Es war einmal vor langer, langer Zeit, genauer gesagt [am Freitag 15. Juli 2011, 19 Uhr](http://www.wrint.de/2011/07/15/kl010011-ferngesprache-iii/#more-301), als sich einige Podcasthörer zusammenfanden und bereit waren die Welt zu verändern.  
 Anfangs wurde das [Piratenpad](http://www.piratenpad.de/) ([Etherpad](http://de.wikipedia.org/wiki/EtherPad) der [Piratenpartei](http://www.piratenpartei.de/)) verwendet und die Shownotes in einem nicht näher definierten Format geschrieben.  
-Gefüllt wurde es mit Links und Texten, die erwähnenswert schienen. Zu jenen Tagen sprach man über den [exklusionistischen Charakter der deutschen Wikipedia](http://de.wiktionary.org/wiki/Exklusionist) aber wir wollten Inklusionisten sein. So schrieben wir große Mengen an Text ohne eine feste Formatierung zu haben.
-Nach einem Dutzend an Sendungen wuchs in manchen der Ehrgeiz kontinuierlich Shownotes für die [WRINT](http://wrint.de/) Episoden zu schreiben. Wir wollten für alle Hörer eine Möglichkeit bieten, die relevanten Links und Verweise in den 3- bis 4-stündigen Sendung zusammen an einem Ort zu haben um die Sendung thematisch überblicken zu können.
+Gefüllt wurde es mit Links und Texten, die uns erwähnenswert schienen. Zu jenen Tagen sprach man über den [exklusionistischen Charakter der deutschen Wikipedia](http://de.wiktionary.org/wiki/Exklusionist) aber wir wollten Inklusionisten sein. So schrieben wir große Mengen an Text ohne eine feste Formatierung zu haben.
+Nach einem Dutzend an Sendungen wuchs in manchen der Ehrgeiz kontinuierlich Shownotes für die [WRINT](http://wrint.de/) Episoden zu schreiben. Wir wollten für alle Hörer eine Möglichkeit bieten die relevanten Links und Verweise in den 3- bis 4-stündigen Sendung zusammen an einem Ort zu haben um die Sendung thematisch überblicken zu können.
 Das ursprüngliche Ziel hat sich bis heute nicht stark verändert, wir wollen für möglichst viele Audioinhalte zusätzliche Daten sammeln, zusammenführen und somit Podcasts leichter durchsuchbar, sowie erwähnte Webseiten, Produkte, Personen, … leichter auffindbar machen.   
 
 ###Den Piraten sei gedankt ```11.2011```
@@ -85,8 +85,6 @@ Zusätzlich finden derzeit auch Planungen bzgl. eines Podcast-Informations-Syste
 
 
 ##Mitglieder
-
-```Jeder der oeffentlich genannt werden will soll sich bitte hier eintragen. Mir waere es lieber, wenn jeder seinen Realnamen eintragen wuerde, aber macht wie ihr wollt```   
 
 Name             | aktiv seit | Zuständig für | Webseite                                       | App.net                                               | Twitter                                                 | GitHub 
 -----------------|------------|---------------|------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------|--------
