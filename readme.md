@@ -14,7 +14,7 @@ Shownotes können in vielfacher Weiße den Inhalt eines Podcasts widerspiegeln, 
 
 Es war einmal vor langer, langer Zeit, genauer gesagt [am Freitag 15. Juli 2011, 19 Uhr](http://www.wrint.de/2011/07/15/kl010011-ferngesprache-iii/#more-301), als sich einige Podcasthörer zusammenfanden und bereit waren, die Welt zu verändern.  
 Anfangs wurde das [Piratenpad](http://www.piratenpad.de/) ([Etherpad](http://de.wikipedia.org/wiki/EtherPad) der [Piratenpartei](http://www.piratenpartei.de/)) verwendet und die Shownotes in einem nicht näher definierten Format geschrieben.  
-Gefüllt wurde es mit Links und Texten, die erwähnenswert schienen. Zu jenen Tagen sprach man über den [exklusionistischen Charakter der deutschen Wikipedia](http://de.wiktionary.org/wiki/Exklusionist) aber wir wollten Inklusionisten sein. So schrieben wir große Mengen an Text ohne eine feste Formatierung zu haben.
+Gefüllt wurde es mit Links und Texten, die erwähnenswert schienen. Zu jenen Tagen sprach man über den [exklusionistischen Charakter der deutschen Wikipedia](http://de.wiktionary.org/wiki/Exklusionist), aber wir wollten Inklusionisten sein. So schrieben wir große Mengen an Text, ohne eine feste Formatierung zu haben.
 Nach einem Dutzend an Sendungen wuchs in manchen der Ehrgeiz kontinuierlich Shownotes für die [WRINT](http://wrint.de/) Episoden zu schreiben. Wir wollten für alle Hörer eine Möglichkeit bieten, die relevanten Links und Verweise in den 3- bis 4-stündigen Sendung zusammen an einem Ort zu haben um die Sendung thematisch überblicken zu können.
 Das ursprüngliche Ziel hat sich bis heute nicht stark verändert, wir wollen für möglichst viele Audioinhalte zusätzliche Daten sammeln, zusammenführen und somit Podcasts leichter durchsuchbar, sowie erwähnte Webseiten, Produkte, Personen, … leichter auffindbar machen.   
 
@@ -31,12 +31,12 @@ Es wurden vermehrt Zeitangaben gesetzt, welche jedoch noch händisch von einem v
 
 ###Hola Shownot.es ```08.2012```
 
-Im August 2012 sponserte [Simon Waldherr](http://simon.waldherr.eu/) dem Shownotes Projekt die Domain [Shownot.es](http://shownot.es/). Mit der neuen Domain drängte sich dann auch eine schöne Webseite mit einer Übersicht der Shownotes auf.  
+Im August 2012 sponserte [Simon Waldherr](http://simon.waldherr.eu/) dem Shownotes Projekt die Domain [Shownot.es](http://shownot.es/) und schlug ein Logo vor, welches bis heute [das Logo der Shownot.es](http://shownot.es/img/shownotes.png) ist. Mit der neuen Domain drängte sich dann auch eine schöne Webseite mit einer Übersicht der Shownotes auf.  
 Diese Webseite wurde hauptsächlich von [Quimoniz](https://alpha.app.net/quimoniz) und [Simon](http://simon.waldherr.eu/) geschrieben und aktuell gehalten. Auf dieser Webseite werden seit dem die geparsten Versionen der Shownotes angeboten, wobei [die Shownotes zusätzlich auch auf GitHub](https://github.com/shownotes/shownot.es) zu finden sind und vollständig unter der [CC0 Lizenz](http://creativecommons.org/publicdomain/zero/1.0/) stehen.
 
 ###Open Shownotes Format ```09.2012```
 
-Um die Shownotes strukturierter erscheinen zu lassen und somit auch das Design der [Shownot.es Seite](http://shownot.es/) zu verschönern, drängte sich ein eigenes Format auf in welchen die Shownotes geschrieben werden.  
+Um die Shownotes strukturierter erscheinen zu lassen und somit auch das Design der [Shownot.es Seite](http://shownot.es/) zu verschönern, drängte sich ein eigenes Format auf, in welchem die Shownotes geschrieben werden.  
 Dieses Format haben wir ```Open Shownotes Format``` genannt und arbeiten seit September 2012 kontinuierlich daran. Obwohl wir im Gegensatz zu anderen Formaten keine Versionsnummern besitzen entwickelt sich das Format ständig weiter. Eine Definition der Sprache / des Formats ist mittlerweile auf [shownotes.github.io/OSF-in-a-Nutshell](http://shownotes.github.io/OSF-in-a-Nutshell/#deutsch) zu finden.  
 Die [erste Implementation eines OSF Parsers](https://github.com/shownotes/OpenShownotesFormat) wurde von [Simon](http://simon.waldherr.eu/) in PHP geschrieben.
 
@@ -48,7 +48,7 @@ Als Teil des Shownot.es Teams war für uns [Evita Bley](https://alpha.app.net/ev
 
 ###Show Pad und Module ```03.2013```
 
-Im März 2013 begann die Arbeit an einer eigenen Pad Software (kurz zuvor wurden bereits einige Module dafür geschrieben), da uns das Piratenpad immer mehr an neuen Ideen und möglichen Innovationen hinderte. Dank der von [Simon](http://simon.waldherr.eu/) geschriebenen [Etherpad Bookmarklets](https://github.com/shownotes/EtherpadBookmarklets) wurde zwar mittlerweile die Zeitangabe automatisch eingefügt und auch ein einfacher Export als HTML oder Kapitelmarken Datei (genauer gesagt mp4chaps) war möglich  
+Im März 2013 begann die Arbeit an einer eigenen Pad Software (kurz zuvor wurden bereits einige Module dafür geschrieben), da uns das Piratenpad immer mehr an neuen Ideen und möglichen Innovationen hinderte. Dank der von [Simon](http://simon.waldherr.eu/) geschriebenen [Etherpad Bookmarklets](https://github.com/shownotes/EtherpadBookmarklets) wurde zwar mittlerweile die Zeitangabe automatisch eingefügt und auch ein einfacher Export als HTML oder Kapitelmarken Datei (genauer gesagt mp4chaps) war möglich, allerdings wollten wir noch höher hinaus.  
 Zu unserem Glück hatte sich zu dieser Zeit [luto](http://luto.at/) dem Shownot.es Team angeschlossen und sich dazu bereit erklärt, das [EtherPad lite](https://github.com/ether/etherpad-lite) für uns anzupassen. Das EtherPad lite ist im Gegensatz zu dem vorher verwendeten EtherPad um einiges schlanker und somit auch performanter. Diese Schlankheit brachte aber auch einige Nachteile, wie zum Beispiel ein fehlendes Usermanagement mit sich, welches deshalb selbst umgesetzt werden musste.  
 Neben dem Usermanagement, welches uns erfolgreich vor Trollen schützt, wurden auch die [Etherpad Bookmarklets](https://github.com/shownotes/EtherpadBookmarklets) erweitert und ins neue Pad integriert. Da das ShowPad Modular aufgebaut ist kann man die Erweiterungen in deren eigenen Repos finden. Das [insertTimestamp Modul](https://github.com/shownotes/ep_insertTimestamp) fügt die Zeitangaben ein und synchronisiert die Uhrzeiten der Clients mit der des Servers.  
 Ein weiteres Modul ist [tinyOSF](https://github.com/shownotes/tinyOSF.js) von [Simon](http://simon.waldherr.eu/), welches sich um die Umwandlung von OSF zu HTML, Markdown, mp4chaps-Kapitelmarken und einige weitere Formate kümmert.
@@ -63,18 +63,19 @@ Um die Shownotes auch einfach in die Blogs der jeweiligen Podcaster zu bringen h
 ###PPW13 und RP13 ```05.2013```
 
 Um uns noch besser mit den Podcastern abstimmen zu können und uns gegenseitig auf neue Ideen zu bringen hatte uns [Tim Pritlove](http://metaebene.me/timpritlove/) auf den [Podlove Podcaster Workshop 2013 (kurz PPW13)](http://metaebene.me/blog/2013/03/15/podlove-podcaster-workshop/) und die darauf folgende [Re:publica 2013](http://re-publica.de/) eingeladen. Das Shownot.es Team wurde dort von [Evita](https://alpha.app.net/evita), [Simon](http://simon.waldherr.eu/) und [luto](http://luto.at/) vertreten.   
-Auf der Re:publica stellten wir die Infrastruktur um Shownotes für Talks und Vorträge zu schreiben, hatten dabei ein paar Probleme und lernten vieles, was wir auf dem nächsten Chaos Communication Congress berücksichtigen wollen. Alle drei Shownoter und kamen mit vielen neuen Ideen und neuen Kontakten von den beiden Veranstaltungen zurück.
+Auf der Re:publica stellten wir die Infrastruktur um Shownotes für Talks und Vorträge zu schreiben, hatten dabei ein paar Probleme und lernten vieles, was wir auf dem nächsten Chaos Communication Congress berücksichtigen wollen. Die drei Shownoter und kamen mit vielen neuen Ideen und neuen Kontakten von den beiden Veranstaltungen zurück.  
 Neben den Shownotes für die Vorträge haben wir aber auch Shownotes für [die täglich stattfindende Sondersendung](http://die-sondersendung.de/) geschrieben.
 
 ###Treffen und Skypekonferenzen ```06.2013```
 
 Auf dem [PPW13](http://metaebene.me/blog/2013/03/15/podlove-podcaster-workshop/) und der [RP13](http://re-publica.de/) hatten wir festgestellt, dass persönliche Gespräche von Angesicht zu Angesicht (d.h. keine Chats oder Instant Messenger) bei weitem effektiver sind, als beispielsweise langwierige Diskussionen im IRC.
-Aus diesem Grund trafen sich [Evita](https://alpha.app.net/evita) und [Simon](http://simon.waldherr.eu/) im Juni 2013 mit einigen Podcastern in Berlin um an neuen Ideen feilen. Zusätzlich fand am 02. Juli die erste Skype Konferenz mit allen Mitgliedern des Kernteams statt. Künftig wollen wir dies mindestens einmal im Monat machen.
+Aus diesem Grund trafen sich [Evita](https://alpha.app.net/evita) und [Simon](http://simon.waldherr.eu/) im Juni 2013 mit einigen Podcastern in Berlin um an neuen Ideen zu feilen. 
+Zusätzlich fand am 02. Juli die erste Skype Konferenz mit allen Mitgliedern des Kernteams statt. Künftig wollen wir dies mindestens einmal im Monat machen.
 
 ###Ein Blick in die Zukunft
 
 Im Anschluss an das letzte Treffen fuhr [Simon](http://simon.waldherr.eu/) noch zu [Dr4k3](http://fastreboot.de/) um über die zukünftige Verwendung der Shownotes zu sprechen. Neben Überlegungen, was die Durchsuchbarkeit der Shownotes angeht, wurde auch über die Möglichkeit von Notifications gesprochen. 
-Mittlerweile existiert dazu auch eine erste Version eines [Jabber-Dienstes](https://github.com/Drake81/shownotes-message-service), welcher über Live gestreamte Podcasts informiert, die beshownotet werden könnten. Eine feste Integration in das User Profil des ShowPads ist geplant. 
+Mittlerweile existiert dazu auch eine erste Version eines [Jabber-Dienstes](https://github.com/Drake81/shownotes-message-service), welcher über Live gestreamte Podcasts informiert, welche beshownotet werden könnten. Eine feste Integration in das User Profil des ShowPads ist geplant. 
 Weitere Pläne bestehen auch für die Analyse der Texte um zum Beispiel Vorhersagen automatisch in eine Datenbank einzutragen und bei Erreichen des Zeitpunkts zu kennzeichnen. Des Weiteren wird auch an einem Tool gearbeitet, um Shownotes auch im Nachhinein einfacher schreiben zu können.
 Um auch die Integration in Wordpress noch weiter zu verbessern werden auch weiterhin Updates für das Shownotes Wordpress Plugin erscheinen.  
 Zusätzlich finden derzeit auch Planungen bzgl. eines Podcast-Informations-Systems statt, es soll als Informationsaustauschsystem zwischen verschiedenen Podcast bezogenen Diensten dienen und möglichst offen und dezentral sein. 
@@ -97,7 +98,18 @@ Simon Waldherr   | 07.2012    | Parser        | [simon.waldherr.eu](http://simon
 Evita Bley       | 08.2012    | Planung       | [podcascription.de](http://podcascription.de/) | [@evita](https://alpha.app.net/evita)                 | [@evitabley](https://twitter.com/evitabley)             | [@evitabley](https://github.com/evitabley)
 luto             |            | Pad           | [luto.at](http://luto.at/)                     | [@luto](https://alpha.app.net/luto)                   | [@luutoo](https://twitter.com/luutoo)                   | [@luto](https://github.com/luto)
 M. Stoffers      | 02.2013    | Notification  | [fastreboot.de](http://fastreboot.de/)         | [@dr4k3](https://alpha.app.net/dr4k3)                 | [@dr4k3_LE](https://twitter.com/dr4k3_LE)               | [@Drake81](https://github.com/Drake81)
-…                | …          | …             | …                                              | …                                                     | …                                                       | 
+…                | …          | …             | …                                              | …                                                     | …                                                       | … 
+
+Dies ist nur ein kleiner Teil des Shownotes Teams, der Teil der sich bereits hier eingetragen hat.  
+Das Shownotes Team ist eine große offene Gruppe ohne jegliche Hierarchie.  
+Die "Herrschaftsform" innerhalb des Shownot.es Projekts ist eine Mischung aus [Demokratie](https://de.wikipedia.org/wiki/Demokratie) und [Do-ocracy](http://de.wikipedia.org/wiki/Do-ocracy).  
+Jeder der unser Vorhaben unterstützen und Teil des Projekts werden will ist herzlich dazu eingeladen. Jegliche Hilfe ist willkommen, egal ob Programmierer oder Shownotes-Schreiber, ob Designer oder Podcaster die über uns berichten und unsere Software testen wollen.
+
+
+##Treffen und Konferenzen
+
+Auf Podcaster-, Blogger- und Hacker-Messen/Konferenzen, sowie Hörertreffen werden immer wieder Mitglieder des Shownot.es anzutreffen sein. Da das Shownotes Projekt eine offene Gruppe an freiwilligen ist, steht natürlich jedem selbst frei, an Events teilzunehmen und darüber zu berichten.  
+Bei wichtigen Veranstaltungen auf welchen auch Leute aus dem Kernteam teilnehmen, werden wir natürlich auch ausführlicher berichten.
 
 
 ##Ziele
