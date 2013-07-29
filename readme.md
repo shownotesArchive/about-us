@@ -139,7 +139,7 @@ Shownotes WP Plugin    | 04.2013            | PHP          | Simon            | 
 OSF Definition         | 05.2013            | Markdown     | Simon            | [OSF-in-a-Nutshell](https://github.com/shownotes/OSF-in-a-Nutshell)
 *chapter Bold* ^1      | 06.2013            | JavaScript   | luto             | [ep_chapterBold](https://github.com/shownotes/ep_chapterBold)
 Zeitangabe Parser      | 06.2013            | JavaScript   | Simon            | [parseTime.js](https://github.com/SimonWaldherr/parseTime.js)
-Notification Dienst    | 06.2013            | Perl         | Dr4k3            | [shownotes-message-service](https://github.com/Drake81/shownotes-message-service)
+Notification Dienst    | 06.2013            | Perl         | Dr4k3            | [shownotes-message-service](https://github.com/shownotes/shownotes-message-service)
 
 ^1) ShowPad Modul  
 ^2) Sowohl Modul, als auch Standalone  
