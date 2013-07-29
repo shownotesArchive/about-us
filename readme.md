@@ -100,8 +100,8 @@ M. Stoffers      | 02.2013    | Notification  | [fastreboot.de](http://fastreboo
 
 Dies ist nur ein kleiner Teil des Shownotes Teams, der Teil der sich bereits hier eingetragen hat.  
 Das Shownotes Team ist eine große offene Gruppe ohne jegliche Hierarchie.  
-Die "Herrschaftsform" innerhalb des Shownot.es Projekts ist eine Mischung aus [Demokratie](https://de.wikipedia.org/wiki/Demokratie) und [Do-ocracy](http://de.wikipedia.org/wiki/Do-ocracy).  
-Jeder der unser Vorhaben unterstützen und Teil des Projekts werden will ist herzlich dazu eingeladen. Jegliche Hilfe ist willkommen, egal ob Programmierer oder Shownotes-Schreiber, ob Designer oder Podcaster die über uns berichten und unsere Software testen wollen.
+Die Zusammenarbeit und Entscheidungsfindung innerhalb des Shownot.es Projekts basiert auf einer Mischung aus [Demokratie](https://de.wikipedia.org/wiki/Demokratie) und [Do-ocracy](http://de.wikipedia.org/wiki/Do-ocracy).  
+Jeder der unser Vorhaben unterstützen und Teil des Projekts werden will ist herzlich dazu eingeladen. Jegliche Hilfe ist jederzeit willkommen, egal ob Programmierer oder Shownotes-Schreiber, ob Designer oder Podcaster die über uns berichten und unsere Software testen wollen.
 
 
 ##Treffen und Konferenzen
