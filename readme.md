@@ -91,6 +91,7 @@ Name             | aktiv seit | Zuständig für | Webseite                      
 -----------------|------------|---------------|------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------|--------
 Kai              | 07.2011    | Twitter & ADN | [kaikubasta.de](http://kaikubasta.de/)         |                                                       | [@kaikubasta](http://twitter.com/kaikubasta)            | [@kaikubasta](https://github.com/kaikubasta)
 Lars             | 07.2011    | Webseite      |                                                | [@quimoniz](https://alpha.app.net/quimoniz)           | [@quimoniz](https://twitter.com/quimoniz)               | [@Quimoniz](https://github.com/Quimoniz)
+mrmoe            | 03.2012    |               |                                                | [@moe](https://alpha.app.net/moe)                     | [@mrmoe](https://twitter.com/mrmoe)                     | [@mrm0e](https://github.com/mrm0e)
 kaeffchen heinz  | 07.2012    |               |                                                |                                                       | [@kaeffchen_heinz](https://twitter.com/kaeffchen_heinz) | 
 Simon Waldherr   | 07.2012    | Parser        | [simon.waldherr.eu](http://simon.waldherr.eu/) | [@simonwaldherr](https://alpha.app.net/simonwaldherr) | [@simonwaldherr](https://twitter.com/simonwaldherr)     | [@SimonWaldherr](https://github.com/SimonWaldherr)
 Evita Bley       | 08.2012    | Planung       | [podcascription.de](http://podcascription.de/) | [@evita](https://alpha.app.net/evita)                 | [@evitabley](https://twitter.com/evitabley)             | [@evitabley](https://github.com/evitabley)
@@ -139,7 +140,7 @@ Shownotes WP Plugin    | 04.2013            | PHP          | Simon            | 
 OSF Definition         | 05.2013            | Markdown     | Simon            | [OSF-in-a-Nutshell](https://github.com/shownotes/OSF-in-a-Nutshell)
 *chapter Bold* ^1      | 06.2013            | JavaScript   | luto             | [ep_chapterBold](https://github.com/shownotes/ep_chapterBold)
 Zeitangabe Parser      | 06.2013            | JavaScript   | Simon            | [parseTime.js](https://github.com/SimonWaldherr/parseTime.js)
-Notification Dienst    | 06.2013            | Perl         | Dr4k3            | [shownotes-message-service](https://github.com/shownotes/shownotes-message-service)
+Notification Dienst    | 06.2013            | Perl         | Dr4k3            | [shownotes-message-service](https://github.com/Drake81/shownotes-message-service)
 
 ^1) ShowPad Modul  
 ^2) Sowohl Modul, als auch Standalone  
