@@ -31,7 +31,7 @@ Es wurden vermehrt Zeitangaben gesetzt, welche jedoch noch händisch von einem v
 
 ###Hola Shownot.es ```08.2012```
 
-Im August 2012 sponserte [Simon Waldherr](http://simon.waldherr.eu/) dem Shownotes Projekt die Domain [Shownot.es](http://shownot.es/) und schlug ein Logo vor, welches bis heute [das Logo der Shownot.es](http://shownot.es/img/shownotes.png) ist. Mit der neuen Domain drängte sich dann auch eine schöne Webseite mit einer Übersicht der Shownotes auf.  
+Im August 2012 sponserte [Simon Waldherr](http://simon.waldherr.eu/) dem Shownotes Projekt die Domain [Shownot.es](http://shownot.es/) und schlug ein Logo vor, welches bis heute [das Logo der Shownot.es](https://raw.github.com/shownotes/about-us/master/shownotes.png) ist. Mit der neuen Domain drängte sich dann auch eine schöne Webseite mit einer Übersicht der Shownotes auf.  
 Diese Webseite wurde hauptsächlich von [Quimoniz](https://alpha.app.net/quimoniz) und [Simon](http://simon.waldherr.eu/) geschrieben und aktuell gehalten. Auf dieser Webseite werden seit dem die geparsten Versionen der Shownotes angeboten, wobei [die Shownotes zusätzlich auch auf GitHub](https://github.com/shownotes/shownot.es) zu finden sind und vollständig unter der [CC0 Lizenz](http://creativecommons.org/publicdomain/zero/1.0/) stehen.
 
 ###Open Shownotes Format ```09.2012```
