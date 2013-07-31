@@ -12,10 +12,10 @@ Shownotes können in vielfacher Weiße den Inhalt eines Podcasts widerspiegeln, 
 
 ###Am Anfang war das (gesprochene) Wort ```07.2011```
 
-Es war einmal vor langer, langer Zeit, genauer gesagt [am Freitag 15. Juli 2011, 19 Uhr](http://www.wrint.de/2011/07/15/kl010011-ferngesprache-iii/#more-301), als sich einige Podcasthörer zusammenfanden und bereit waren die Welt zu verändern.  
+Es war einmal vor langer, langer Zeit, genauer gesagt [am Freitag 15. Juli 2011, 19 Uhr](http://www.wrint.de/2011/07/15/kl010011-ferngesprache-iii/#more-301), als sich einige Podcasthörer zusammenfanden und bereit waren, die Welt zu verändern.  
 Anfangs wurde das [Piratenpad](http://www.piratenpad.de/) ([Etherpad](http://de.wikipedia.org/wiki/EtherPad) der [Piratenpartei](http://www.piratenpartei.de/)) verwendet und die Shownotes in einem nicht näher definierten Format geschrieben.  
-Gefüllt wurde es mit Links und Texten, die uns erwähnenswert schienen. Zu jenen Tagen sprach man über den [exklusionistischen Charakter der deutschen Wikipedia](http://de.wiktionary.org/wiki/Exklusionist) aber wir wollten Inklusionisten sein. So schrieben wir große Mengen an Text ohne eine feste Formatierung zu haben.
-Nach einem Dutzend an Sendungen wuchs in manchen der Ehrgeiz kontinuierlich Shownotes für die [WRINT](http://wrint.de/) Episoden zu schreiben. Wir wollten für alle Hörer eine Möglichkeit bieten die relevanten Links und Verweise in den 3- bis 4-stündigen Sendung zusammen an einem Ort zu haben um die Sendung thematisch überblicken zu können.
+Gefüllt wurde es mit Links und Texten, die uns erwähnenswert schienen. Zu jenen Tagen sprach man über den [exklusionistischen Charakter der deutschen Wikipedia](http://de.wiktionary.org/wiki/Exklusionist), aber wir wollten Inklusionisten sein. So schrieben wir große Mengen an Text ohne eine feste Formatierung zu haben.
+Nach einem Dutzend an Sendungen wuchs in manchen der Ehrgeiz kontinuierlich Shownotes für die [WRINT](http://wrint.de/) Episoden zu schreiben. Wir wollten für alle Hörer eine Möglichkeit bieten, die relevanten Links und Verweise in den 3- bis 4-stündigen Sendung zusammen an einem Ort zu haben um die Sendung thematisch überblicken zu können.
 Das ursprüngliche Ziel hat sich bis heute nicht stark verändert, wir wollen für möglichst viele Audioinhalte zusätzliche Daten sammeln, zusammenführen und somit Podcasts leichter durchsuchbar, sowie erwähnte Webseiten, Produkte, Personen, … leichter auffindbar machen.   
 
 ###Den Piraten sei gedankt ```11.2011```
@@ -31,7 +31,7 @@ Es wurden vermehrt Zeitangaben gesetzt, welche jedoch noch händisch von einem v
 
 ###Hola Shownot.es ```08.2012```
 
-Im August 2012 sponserte [Simon Waldherr](http://simon.waldherr.eu/) dem Shownotes Projekt die Domain [Shownot.es](http://shownot.es/) und schlug ein Logo vor, welches bis heute [das Logo der Shownot.es](http://shownot.es/img/shownotes.png) ist. Mit der neuen Domain drängte sich dann auch eine schöne Webseite mit einer Übersicht der Shownotes auf.  
+Im August 2012 sponserte [Simon Waldherr](http://simon.waldherr.eu/) dem Shownotes Projekt die Domain [Shownot.es](http://shownot.es/) und schlug ein Logo vor, welches bis heute [das Logo der Shownot.es](https://raw.github.com/shownotes/about-us/master/shownotes.png) ist. Mit der neuen Domain drängte sich dann auch eine schöne Webseite mit einer Übersicht der Shownotes auf.  
 Diese Webseite wurde hauptsächlich von [Quimoniz](https://alpha.app.net/quimoniz) und [Simon](http://simon.waldherr.eu/) geschrieben und aktuell gehalten. Auf dieser Webseite werden seit dem die geparsten Versionen der Shownotes angeboten, wobei [die Shownotes zusätzlich auch auf GitHub](https://github.com/shownotes/shownot.es) zu finden sind und vollständig unter der [CC0 Lizenz](http://creativecommons.org/publicdomain/zero/1.0/) stehen.
 
 ###Open Shownotes Format ```09.2012```
@@ -91,6 +91,7 @@ Name             | aktiv seit | Zuständig für | Webseite                      
 -----------------|------------|---------------|------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------|--------
 Kai              | 07.2011    | Twitter & ADN | [kaikubasta.de](http://kaikubasta.de/)         |                                                       | [@kaikubasta](http://twitter.com/kaikubasta)            | [@kaikubasta](https://github.com/kaikubasta)
 Lars             | 07.2011    | Webseite      |                                                | [@quimoniz](https://alpha.app.net/quimoniz)           | [@quimoniz](https://twitter.com/quimoniz)               | [@Quimoniz](https://github.com/Quimoniz)
+mrmoe            | 03.2012    |               |                                                | [@moe](https://alpha.app.net/moe)                     | [@mrmoe](https://twitter.com/mrmoe)                     | [@mrm0e](https://github.com/mrm0e)
 kaeffchen heinz  | 07.2012    |               |                                                |                                                       | [@kaeffchen_heinz](https://twitter.com/kaeffchen_heinz) | 
 Simon Waldherr   | 07.2012    | Parser        | [simon.waldherr.eu](http://simon.waldherr.eu/) | [@simonwaldherr](https://alpha.app.net/simonwaldherr) | [@simonwaldherr](https://twitter.com/simonwaldherr)     | [@SimonWaldherr](https://github.com/SimonWaldherr)
 Evita Bley       | 08.2012    | Planung       | [podcascription.de](http://podcascription.de/) | [@evita](https://alpha.app.net/evita)                 | [@evitabley](https://twitter.com/evitabley)             | [@evitabley](https://github.com/evitabley)
