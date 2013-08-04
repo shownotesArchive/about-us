@@ -72,13 +72,19 @@ Auf dem [PPW13](http://metaebene.me/blog/2013/03/15/podlove-podcaster-workshop/)
 Aus diesem Grund trafen sich [Evita](https://alpha.app.net/evita) und [Simon](http://simon.waldherr.eu/) im Juni 2013 mit einigen Podcastern in Berlin um an neuen Ideen zu feilen. 
 Zusätzlich fand am 02. Juli die erste Skype Konferenz mit allen Mitgliedern des Kernteams statt. Künftig wollen wir dies mindestens einmal im Monat machen.
 
-###Ein Blick in die Zukunft
+###Sommerloch? ```07.2013```
 
 Im Anschluss an das letzte Treffen fuhr [Simon](http://simon.waldherr.eu/) noch zu [Dr4k3](http://fastreboot.de/) um über die zukünftige Verwendung der Shownotes zu sprechen. Neben Überlegungen, was die Durchsuchbarkeit der Shownotes angeht, wurde auch über die Möglichkeit von Notifications gesprochen. 
-Mittlerweile existiert dazu auch eine erste Version eines [Jabber-Dienstes](https://github.com/Drake81/shownotes-message-service), welcher über Live gestreamte Podcasts informiert, welche beshownotet werden könnten. Eine feste Integration in das User Profil des ShowPads ist geplant. 
-Weitere Pläne bestehen auch für die Analyse der Texte um zum Beispiel Vorhersagen automatisch in eine Datenbank einzutragen und bei Erreichen des Zeitpunkts zu kennzeichnen. Des Weiteren wird auch an einem Tool gearbeitet, um Shownotes auch im Nachhinein einfacher schreiben zu können.
+Mittlerweile existiert dazu auch eine erste Version eines [Jabber-Dienstes](https://github.com/Drake81/shownotes-message-service), welcher über Live sendende Podcasts informiert. Eine feste Integration in das User-Profil des ShowPads ist ebenfalls geplant. 
+Zusätzlich fanden auch Planungen bzgl. eines Podcast-Informations-Systems statt und halten immer noch an. Es soll als Informations-Austausch-System zwischen verschiedenen Podcast bezogenen Diensten dienen und möglichst offen und dezentral sein. Zusätzliche Informationen gibt es im [PIS-draft](https://github.com/SimonWaldherr/PIS-draft) Repo.  
+Um noch Besser zu kommunizieren wurden [XMPP](http://jabber.shownot.es/) und [Mumble](http://mumble.shownot.es/) Server sowie eine Mailingliste eingerichtet.
+
+###Ein Blick in die Zukunft
+
+Das größte derzeit in Arbeit befindliche Projekt ist das Metadaten Austausch System (Codename PIS).  
+Weitere Pläne bestehen für die Analyse der Texte um zum Beispiel Vorhersagen automatisch in eine Datenbank einzutragen und bei Erreichen des Zeitpunkts zu kennzeichnen. Ausserdem wird auch an einem Tool gearbeitet, um Shownotes auch im Nachhinein einfacher schreiben zu können.
 Um auch die Integration in Wordpress noch weiter zu verbessern werden auch weiterhin Updates für das Shownotes Wordpress Plugin erscheinen.  
-Zusätzlich finden derzeit auch Planungen bzgl. eines Podcast-Informations-Systems statt, es soll als Informationsaustauschsystem zwischen verschiedenen Podcast bezogenen Diensten dienen und möglichst offen und dezentral sein. 
+
 
 ---
 
