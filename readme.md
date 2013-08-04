@@ -3,7 +3,7 @@
 
 ##Show Notes
 
-Als "Shownotes" (engl. show notes, "Sendungsnotizen"/"Mitschriften") werden ergänzende und zusammenfassende Notizen und Texte bezeichnet. Vor allem bei Podcasts hat es sich durchgesetzt, dass solche Mitschriften und Linksammlungen zusammen mit den Audioinhalten angeboten werden.  
+Als "Shownotes" (engl. show notes, "Sendungsnotizen"/"Mitschriften") werden ergänzende und zusammenfassende Notizen und Texte bezeichnet. Vor allem bei Podcasts hat es sich durchgesetzt, dass solche Mitschriften und Linksammlungen zusammen mit den Audio- oder Videoinhalten angeboten werden.  
 Vor allem bei längeren Episoden bieten die Shownotes eine schnelle Übersicht über den Inhalt und durch die Links kann sich ein Hörer selbst eine Meinung der besprochenen Inhalte machen oder erwähnte Produkte im Podcast schneller finden.  
 Shownotes können in vielfacher Weiße den Inhalt eines Podcasts widerspiegeln, neben chronologischer Sortierung gibt es auch thematisch sortierte Shownotes und sogar grafische Darstellungsarten (wie z.B. Mindmaps und Diagramme).
 
@@ -31,7 +31,7 @@ Es wurden vermehrt Zeitangaben gesetzt, welche jedoch noch händisch von einem v
 
 ###Hola Shownot.es ```08.2012```
 
-Im August 2012 sponserte [Simon Waldherr](http://simon.waldherr.eu/) dem Shownotes Projekt die Domain [Shownot.es](http://shownot.es/) und schlug ein Logo vor, welches bis heute [das Logo der Shownot.es](http://shownot.es/img/shownotes.png) ist. Mit der neuen Domain drängte sich dann auch eine schöne Webseite mit einer Übersicht der Shownotes auf.  
+Im August 2012 sponserte [Simon Waldherr](http://simon.waldherr.eu/) dem Shownotes Projekt die Domain [Shownot.es](http://shownot.es/) und schlug ein Logo vor, welches bis heute [das Logo der Shownot.es](https://raw.github.com/shownotes/about-us/master/shownotes.png) ist. Mit der neuen Domain drängte sich dann auch eine schöne Webseite mit einer Übersicht der Shownotes auf.  
 Diese Webseite wurde hauptsächlich von [Quimoniz](https://alpha.app.net/quimoniz) und [Simon](http://simon.waldherr.eu/) geschrieben und aktuell gehalten. Auf dieser Webseite werden seit dem die geparsten Versionen der Shownotes angeboten, wobei [die Shownotes zusätzlich auch auf GitHub](https://github.com/shownotes/shownot.es) zu finden sind und vollständig unter der [CC0 Lizenz](http://creativecommons.org/publicdomain/zero/1.0/) stehen.
 
 ###Open Shownotes Format ```09.2012```
@@ -72,13 +72,19 @@ Auf dem [PPW13](http://metaebene.me/blog/2013/03/15/podlove-podcaster-workshop/)
 Aus diesem Grund trafen sich [Evita](https://alpha.app.net/evita) und [Simon](http://simon.waldherr.eu/) im Juni 2013 mit einigen Podcastern in Berlin um an neuen Ideen zu feilen. 
 Zusätzlich fand am 02. Juli die erste Skype Konferenz mit allen Mitgliedern des Kernteams statt. Künftig wollen wir dies mindestens einmal im Monat machen.
 
-###Ein Blick in die Zukunft
+###Sommerloch? ```07.2013```
 
 Im Anschluss an das letzte Treffen fuhr [Simon](http://simon.waldherr.eu/) noch zu [Dr4k3](http://fastreboot.de/) um über die zukünftige Verwendung der Shownotes zu sprechen. Neben Überlegungen, was die Durchsuchbarkeit der Shownotes angeht, wurde auch über die Möglichkeit von Notifications gesprochen. 
-Mittlerweile existiert dazu auch eine erste Version eines [Jabber-Dienstes](https://github.com/Drake81/shownotes-message-service), welcher über Live gestreamte Podcasts informiert, welche beshownotet werden könnten. Eine feste Integration in das User Profil des ShowPads ist geplant. 
-Weitere Pläne bestehen auch für die Analyse der Texte um zum Beispiel Vorhersagen automatisch in eine Datenbank einzutragen und bei Erreichen des Zeitpunkts zu kennzeichnen. Des Weiteren wird auch an einem Tool gearbeitet, um Shownotes auch im Nachhinein einfacher schreiben zu können.
+Mittlerweile existiert dazu auch eine erste Version eines [Jabber-Dienstes](https://github.com/Drake81/shownotes-message-service), welcher über Live sendende Podcasts informiert. Eine feste Integration in das User-Profil des ShowPads ist ebenfalls geplant. 
+Zusätzlich fanden auch Planungen bzgl. eines Podcast-Informations-Systems statt und halten immer noch an. Es soll als Informations-Austausch-System zwischen verschiedenen Podcast bezogenen Diensten dienen und möglichst offen und dezentral sein. Zusätzliche Informationen gibt es im [PIS-draft](https://github.com/SimonWaldherr/PIS-draft) Repo.  
+Um noch Besser zu kommunizieren wurden [XMPP](http://jabber.shownot.es/) und [Mumble](http://mumble.shownot.es/) Server sowie eine Mailingliste eingerichtet.
+
+###Ein Blick in die Zukunft
+
+Das größte derzeit in Arbeit befindliche Projekt ist das Metadaten Austausch System (Codename PIS).  
+Weitere Pläne bestehen für die Analyse der Texte um zum Beispiel Vorhersagen automatisch in eine Datenbank einzutragen und bei Erreichen des Zeitpunkts zu kennzeichnen. Ausserdem wird auch an einem Tool gearbeitet, um Shownotes auch im Nachhinein einfacher schreiben zu können.
 Um auch die Integration in Wordpress noch weiter zu verbessern werden auch weiterhin Updates für das Shownotes Wordpress Plugin erscheinen.  
-Zusätzlich finden derzeit auch Planungen bzgl. eines Podcast-Informations-Systems statt, es soll als Informationsaustauschsystem zwischen verschiedenen Podcast bezogenen Diensten dienen und möglichst offen und dezentral sein. 
+
 
 ---
 
@@ -91,6 +97,7 @@ Name             | aktiv seit | Zuständig für | Webseite                      
 -----------------|------------|---------------|------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------|--------
 Kai              | 07.2011    | Twitter & ADN | [kaikubasta.de](http://kaikubasta.de/)         |                                                       | [@kaikubasta](http://twitter.com/kaikubasta)            | [@kaikubasta](https://github.com/kaikubasta)
 Lars             | 07.2011    | Webseite      |                                                | [@quimoniz](https://alpha.app.net/quimoniz)           | [@quimoniz](https://twitter.com/quimoniz)               | [@Quimoniz](https://github.com/Quimoniz)
+mrmoe            | 03.2012    |               |                                                | [@moe](https://alpha.app.net/moe)                     | [@mrmoe](https://twitter.com/mrmoe)                     | [@mrm0e](https://github.com/mrm0e)
 kaeffchen heinz  | 07.2012    |               |                                                |                                                       | [@kaeffchen_heinz](https://twitter.com/kaeffchen_heinz) | 
 Simon Waldherr   | 07.2012    | Parser        | [simon.waldherr.eu](http://simon.waldherr.eu/) | [@simonwaldherr](https://alpha.app.net/simonwaldherr) | [@simonwaldherr](https://twitter.com/simonwaldherr)     | [@SimonWaldherr](https://github.com/SimonWaldherr)
 Evita Bley       | 08.2012    | Planung       | [podcascription.de](http://podcascription.de/) | [@evita](https://alpha.app.net/evita)                 | [@evitabley](https://twitter.com/evitabley)             | [@evitabley](https://github.com/evitabley)
