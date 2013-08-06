@@ -75,7 +75,8 @@ Zusätzlich fand am 02. Juli die erste Skype Konferenz mit allen Mitgliedern des
 ###Sommerloch? ```07.2013```
 
 Im Anschluss an das letzte Treffen fuhr [Simon](http://simon.waldherr.eu/) noch zu [Dr4k3](http://fastreboot.de/) um über die zukünftige Verwendung der Shownotes zu sprechen. Neben Überlegungen, was die Durchsuchbarkeit der Shownotes angeht, wurde auch über die Möglichkeit von Notifications gesprochen. 
-Mittlerweile existiert dazu auch eine erste Version eines [Jabber-Dienstes](https://github.com/Drake81/shownotes-message-service), welcher über Live sendende Podcasts informiert. Eine feste Integration in das User-Profil des ShowPads ist ebenfalls geplant. 
+Mittlerweile existiert dazu auch eine erste Version eines [Jabber-Dienstes](https://github.com/Drake81/shownotes-message-service), welcher über Live sendende Podcasts informiert. Eine feste Integration in das User-Profil des ShowPads ist ebenfalls geplant.  
+Mitte Juli fragte auch [Horst Mumpitz](https://twitter.com/HorstMumpitz) nach der Geschichte des Shownot.es Projekts, woraus dann diese Niederschrift wurde. Hauptsächlich kümmert sich [Simon](http://simon.waldherr.eu/) um die Geschichtsschreibung, jedoch kann gerne jeder der sich dazu berufen fühlt mit Pull Requests mithelfen.  
 Zusätzlich fanden auch Planungen bzgl. eines Podcast-Informations-Systems statt und halten immer noch an. Es soll als Informations-Austausch-System zwischen verschiedenen Podcast bezogenen Diensten dienen und möglichst offen und dezentral sein. Zusätzliche Informationen gibt es im [PIS-draft](https://github.com/SimonWaldherr/PIS-draft) Repo.  
 Um noch Besser zu kommunizieren wurden [XMPP](http://jabber.shownot.es/) und [Mumble](http://mumble.shownot.es/) Server sowie eine Mailingliste eingerichtet.
 
@@ -147,6 +148,8 @@ OSF Definition         | 05.2013            | Markdown     | Simon            | 
 *chapter Bold* ^1      | 06.2013            | JavaScript   | luto             | [ep_chapterBold](https://github.com/shownotes/ep_chapterBold)
 Zeitangabe Parser      | 06.2013            | JavaScript   | Simon            | [parseTime.js](https://github.com/SimonWaldherr/parseTime.js)
 Notification Dienst    | 06.2013            | Perl         | Dr4k3            | [shownotes-message-service](https://github.com/Drake81/shownotes-message-service)
+about us               | 07.2013            | Markdown     | Simon            | [about-us](https://github.com/shownotes/about-us)
+PIS draft              | 07.2013            | md/SVG/JSON  | Simon            | [PIS draft](https://github.com/SimonWaldherr/PIS-draft)
 
 ^1) ShowPad Modul  
 ^2) Sowohl Modul, als auch Standalone  
