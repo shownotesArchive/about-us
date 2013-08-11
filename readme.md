@@ -58,7 +58,9 @@ Dieses eigene Pad erleichtert uns die Arbeit enorm, zusätzlich zu den bereits g
 ###Wordpress Plugin ```04.2013```
 
 Bis Anfang 2013 mussten die Shownotes im Open Shownotes Format erst in einen von [Simon](http://simon.waldherr.eu/) geschriebenen OSF Parser (in PHP und JS verfügbar) geworfen werden, um weiterverwendbares HTML oder Chapter-Daten zu bekommen, was jedoch einen unnötigen Mehraufwand für Podcaster bedeutete.  
-Um die Shownotes auch einfach in die Blogs der jeweiligen Podcaster zu bringen hat [Simon](http://simon.waldherr.eu/) im April 2013 begonnen, ein [Shownotes Wordpress Plugin zu schreiben](https://github.com/shownotes/wp-osf-shownotes) welches die Shownotes direkt aus dem ShowPad lädt und ohne viele Klicks und fast völlig automatisierbar die Shownotes einbindet. Da [Simon](http://simon.waldherr.eu/) als einer der Entwickler des [Podlove Web Player](https://github.com/podlove/podlove-web-player)s schon einige Erfahrungen mit der Entwicklung von Wordpress Plugins sammeln konnte und bereits ein [OSF Parser in PHP](https://github.com/shownotes/OpenShownotesFormat) existierte, konnte das [Shownotes Wordpress Plugin](https://github.com/shownotes/wp-osf-shownotes) relativ schnell umgesetzt werden. Anfangs funktionierte das Plugin nur zusammen mit dem [Podlove Publisher](https://github.com/podlove/podlove-publisher), wurde aber auf [Tims](http://metaebene.me/timpritlove/) Wunsch später auch als eigenständiges Plugin released.
+Um die Shownotes auch einfach in die Blogs der jeweiligen Podcaster zu bringen hat [Simon](http://simon.waldherr.eu/) im April 2013 begonnen, ein [Shownotes Wordpress Plugin zu schreiben](https://github.com/shownotes/wp-osf-shownotes) welches die Shownotes direkt aus dem ShowPad lädt und ohne viele Klicks und fast völlig automatisierbar die Shownotes einbindet. 
+Da [Simon](http://simon.waldherr.eu/) als einer der Entwickler des [Podlove Web Player](https://github.com/podlove/podlove-web-player)s schon einige Erfahrungen mit der Entwicklung von Wordpress Plugins sammeln konnte und bereits ein [OSF Parser in PHP](https://github.com/shownotes/OpenShownotesFormat) existierte, konnte das [Shownotes Wordpress Plugin](https://github.com/shownotes/wp-osf-shownotes) relativ schnell umgesetzt werden. 
+Anfangs funktionierte das Plugin nur zusammen mit dem [Podlove Publisher](https://github.com/podlove/podlove-publisher), wurde aber auf [Tims](http://metaebene.me/timpritlove/) Wunsch später auch als eigenständiges Plugin released.
 
 ###PPW13 und RP13 ```05.2013```
 
@@ -95,7 +97,7 @@ Um auch die Integration in Wordpress noch weiter zu verbessern werden auch weite
 ##Mitglieder
 
 Name             | aktiv seit | Zuständig für | Webseite                                       | App.net                                               | Twitter                                                 | GitHub 
------------------|------------|---------------|------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------|--------
+-----------------|------------|---------------|------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------
 Kai              | 07.2011    | Twitter & ADN | [kaikubasta.de](http://kaikubasta.de/)         |                                                       | [@kaikubasta](http://twitter.com/kaikubasta)            | [@kaikubasta](https://github.com/kaikubasta)
 Lars             | 07.2011    | Webseite      |                                                | [@quimoniz](https://alpha.app.net/quimoniz)           | [@quimoniz](https://twitter.com/quimoniz)               | [@Quimoniz](https://github.com/Quimoniz)
 mrmoe            | 03.2012    |               |                                                | [@moe](https://alpha.app.net/moe)                     | [@mrmoe](https://twitter.com/mrmoe)                     | [@mrm0e](https://github.com/mrm0e)
@@ -133,23 +135,23 @@ Bei wichtigen Veranstaltungen auf welchen auch Leute aus dem Kernteam teilnehmen
 
 \* ***und andere Repositories***
 
-Beschreibung           | Entwicklungsbeginn | Hauptsprache | Maintainer       | Repo
------------------------|--------------------|--------------|------------------|------
-shownot.es Webseite    | 08.2012            | HTML         | Quimoniz / Simon | [shownot.es](https://github.com/shownotes/shownot.es)
-PHP OSF Parser         | 09.2012            | PHP          | Simon            | [OpenShownotesFormat](https://github.com/shownotes/OpenShownotesFormat)
-Etherpad Bookmarklets  | 12.2012            | JavaScript   | Simon            | [EtherpadBookmarklets](https://github.com/shownotes/EtherpadBookmarklets)
-*insert Timestamp* ^1  | 01.2013            | JavaScript   | Simon            | [ep_insertTimestamp](https://github.com/shownotes/ep_insertTimestamp)
-*shownotes Changes* ^1 | 01.2013            | JavaScript   | luto             | [ep_shownotesChanges](https://github.com/shownotes/ep_shownotesChanges)
-JS OSF Parser ^2       | 03.2013            | JavaScript   | Simon            | [tinyOSF.js](https://github.com/shownotes/tinyOSF.js)
-ShowPad                | 03.2013            | node.js      | luto             | [show-pad](https://github.com/shownotes/show-pad)
-Shownotes WP Plugin    | 04.2013            | PHP          | Simon            | [wp-osf-shownotes](https://github.com/SimonWaldherr/wp-osf-shownotes)
-*ShowPad  Backup* ^1   | 04.2013            | JavaScript   | luto             | [show-pad-backup](https://github.com/shownotes/show-pad-backup)
-OSF Definition         | 05.2013            | Markdown     | Simon            | [OSF-in-a-Nutshell](https://github.com/shownotes/OSF-in-a-Nutshell)
-*chapter Bold* ^1      | 06.2013            | JavaScript   | luto             | [ep_chapterBold](https://github.com/shownotes/ep_chapterBold)
-Zeitangabe Parser      | 06.2013            | JavaScript   | Simon            | [parseTime.js](https://github.com/SimonWaldherr/parseTime.js)
-Notification Dienst    | 06.2013            | Perl         | Dr4k3            | [shownotes-message-service](https://github.com/Drake81/shownotes-message-service)
-about us               | 07.2013            | Markdown     | Simon            | [about-us](https://github.com/shownotes/about-us)
-PIS draft              | 07.2013            | md/SVG/JSON  | Simon            | [PIS draft](https://github.com/SimonWaldherr/PIS-draft)
+Beschreibung            | Entwicklungsbeginn | Hauptsprache | Maintainer       | Repo
+------------------------|--------------------|--------------|------------------|------
+shownot.es Webseite     | 08.2012            | HTML         | Quimoniz / Simon | [shownot.es](https://github.com/shownotes/shownot.es)
+PHP OSF Parser          | 09.2012            | PHP          | Simon            | [OpenShownotesFormat](https://github.com/shownotes/OpenShownotesFormat)
+Etherpad Bookmarklets   | 12.2012            | JavaScript   | Simon            | [EtherpadBookmarklets](https://github.com/shownotes/EtherpadBookmarklets)
+*insert Timestamp* ^1   | 01.2013            | JavaScript   | Simon            | [ep_insertTimestamp](https://github.com/shownotes/ep_insertTimestamp)
+*shownotes Changes* ^1  | 01.2013            | JavaScript   | luto             | [ep_shownotesChanges](https://github.com/shownotes/ep_shownotesChanges)
+JS OSF Parser ^2        | 03.2013            | JavaScript   | Simon            | [tinyOSF.js](https://github.com/shownotes/tinyOSF.js)
+ShowPad                 | 03.2013            | node.js      | luto             | [show-pad](https://github.com/shownotes/show-pad)
+Shownotes WP Plugin     | 04.2013            | PHP          | Simon            | [wp-osf-shownotes](https://github.com/SimonWaldherr/wp-osf-shownotes)
+*ShowPad  Backup* ^1    | 04.2013            | JavaScript   | luto             | [show-pad-backup](https://github.com/shownotes/show-pad-backup)
+OSF Definition          | 05.2013            | Markdown     | Simon            | [OSF-in-a-Nutshell](https://github.com/shownotes/OSF-in-a-Nutshell)
+*chapter Bold* ^1       | 06.2013            | JavaScript   | luto             | [ep_chapterBold](https://github.com/shownotes/ep_chapterBold)
+Zeitangabe Parser       | 06.2013            | JavaScript   | Simon            | [parseTime.js](https://github.com/SimonWaldherr/parseTime.js)
+Notification Dienst     | 06.2013            | Perl         | Dr4k3            | [shownotes-message-service](https://github.com/Drake81/shownotes-message-service)
+über Shownot.es         | 07.2013            | Markdown     | Simon            | [about-us](https://github.com/shownotes/about-us)
+PIS Entwurf             | 07.2013            | md/SVG/JSON  | Simon            | [PIS draft](https://github.com/SimonWaldherr/PIS-draft)
 
 ^1) ShowPad Modul  
 ^2) Sowohl Modul, als auch Standalone  
@@ -167,4 +169,7 @@ Flattrn könnt ihr uns und das Projekt auf jeder Shownotes Seite und auf [unsere
 
 ##Weitere Infos
 
-Wer noch weitere Infos sucht, kann sich gerne mit uns im IRC auf freenode.net ([Webchat](http://webchat.freenode.net/?channels=%23shownotes)) unterhalten. Außerdem könnt ihr uns auch auf [Twitter](https://twitter.com/dieshownotes) und [App.net](https://alpha.app.net/shownotes) erreichen. Wer uns auf nicht öffentlichen Wegen erreichen möchte, kann uns auch über [unser Kontaktformular](http://shownot.es/contact/) erreichen. Wenn ihr uns über andere Kontaktmöglichkeiten erreichen wollt, (z.B. XMPP, Mail (gerne auch GPG-verschlüsselt), Skype, Post, Brieftaube, …) könnt ihr gerne danach Fragen. Die folgenden Kommunikationswege lehnen wir jedoch grundsätzlich ab: Facebook, Whatsapp, De-Mail, E-Postbrief
+Wer noch weitere Infos sucht, kann sich gerne mit uns im IRC auf freenode.net ([Webchat](http://webchat.freenode.net/?channels=%23shownotes)) unterhalten. 
+Außerdem könnt ihr uns auch auf [Twitter](https://twitter.com/dieshownotes) und [App.net](https://alpha.app.net/shownotes) erreichen. Wer uns auf nicht öffentlichen Wegen erreichen möchte, kann uns auch über [unser Kontaktformular](http://shownot.es/contact/) erreichen. Wenn ihr uns über andere Kontaktmöglichkeiten erreichen wollt, (z.B. XMPP, Mail (gerne auch GPG-verschlüsselt), Skype, Post, Brieftaube, …) könnt ihr gerne danach Fragen. 
+Wer sich gerne mündlich mit uns unterhalten möchte, kann sich auch gerne auf unserem [mumble/murmur Server auf mumble.shownot.es](http://mumble.shownot.es/) mit uns verabreden. 
+Die folgenden Kommunikationswege lehnen wir jedoch grundsätzlich ab: Facebook, Whatsapp, De-Mail, E-Postbrief
