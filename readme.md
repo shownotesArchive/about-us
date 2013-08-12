@@ -10,8 +10,9 @@ Shownotes können in vielfacher Weiße den Inhalt eines Podcasts widerspiegeln, 
 
 ##Geschichte
 
-###Am Anfang war das (gesprochene) Wort ```07.2011```
+###Am Anfang war das Wort ```07.2011```
 
+Und das Wort war Content-Type: text/plain.  
 Es war einmal vor langer, langer Zeit, genauer gesagt [am Freitag 15. Juli 2011, 19 Uhr](http://www.wrint.de/2011/07/15/kl010011-ferngesprache-iii/#more-301), als sich einige Podcasthörer zusammenfanden und bereit waren, die Welt zu verändern.  
 Anfangs wurde das [Piratenpad](http://www.piratenpad.de/) ([Etherpad](http://de.wikipedia.org/wiki/EtherPad) der [Piratenpartei](http://www.piratenpartei.de/)) verwendet und die Shownotes in einem nicht näher definierten Format geschrieben.  
 Gefüllt wurde es mit Links und Texten, die uns erwähnenswert schienen. Zu jenen Tagen sprach man über den [exklusionistischen Charakter der deutschen Wikipedia](http://de.wiktionary.org/wiki/Exklusionist), aber wir wollten Inklusionisten sein. So schrieben wir große Mengen an Text ohne eine feste Formatierung zu haben.
@@ -81,6 +82,10 @@ Mittlerweile existiert dazu auch eine erste Version eines [Jabber-Dienstes](http
 Mitte Juli fragte auch [Horst Mumpitz](https://twitter.com/HorstMumpitz) nach der Geschichte des Shownot.es Projekts, woraus dann diese Niederschrift wurde. Hauptsächlich kümmert sich [Simon](http://simon.waldherr.eu/) um die Geschichtsschreibung, jedoch kann gerne jeder der sich dazu berufen fühlt mit Pull Requests mithelfen.  
 Zusätzlich fanden auch Planungen bzgl. eines Podcast-Informations-Systems statt und halten immer noch an. Es soll als Informations-Austausch-System zwischen verschiedenen Podcast bezogenen Diensten dienen und möglichst offen und dezentral sein. Zusätzliche Informationen gibt es im [PIS-draft](https://github.com/SimonWaldherr/PIS-draft) Repo.  
 Um noch Besser zu kommunizieren wurden [XMPP](http://jabber.shownot.es/) und [Mumble](http://mumble.shownot.es/) Server sowie eine Mailingliste eingerichtet.
+
+###Metadaten for President ```08.2013```
+
+Nichts ist so stark wie eine Idee deren Zeit gekommen ist und die Zeit der Metadaten ist eindeutig gekommen. Im August erreichten die Überlegungen über ein Metadaten System eine neue Ebene. Zusammen mit Xenim, ReliveRadio, PodUnion, Vemedio, Podbe, der Hörsuppe und weiteren Gästen wurden wichtige Aspekte eines solchen Systems besprochen.
 
 ###Ein Blick in die Zukunft
 
