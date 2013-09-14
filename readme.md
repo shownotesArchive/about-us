@@ -6,10 +6,11 @@
 Als "Shownotes" (engl. show notes, "Sendungsnotizen"/"Mitschriften") werden ergänzende und zusammenfassende Notizen und Texte bezeichnet.
 Vor allem bei Podcasts hat es sich durchgesetzt, dass solche Mitschriften und Link-Sammlungen zusammen mit den Audio- oder Videoinhalten angeboten werden.  
 Besonders bei längeren Episoden bieten die Shownotes eine schnelle Übersicht über den Inhalt und durch die Links kann sich ein Hörer selbst eine Meinung der besprochenen Inhalte machen oder erwähnte Produkte im Podcast schneller finden.  
-Shownotes können in vielfacher Weiße den Inhalt eines Podcasts widerspiegeln, neben chronologischer Sortierung gibt es auch thematisch sortierte Shownotes und sogar grafische Darstellungsarten (wie z.B. Mindmaps und Diagramme).
+Shownotes können in vielfacher Weiße den Inhalt eines Podcasts widerspiegeln, neben chronologischer Sortierung gibt es auch thematisch sortierte Shownotes und sogar grafische Darstellungsarten (wie z.B. [Mind-Maps](http://de.wikipedia.org/wiki/Mind-Map) und Diagramme).
 
 
 ##Geschichte
+
 
 ###Am Anfang war das Wort ```07.2011```
 
@@ -20,21 +21,25 @@ Gefüllt wurde es mit Links und Texten, die uns erwähnenswert schienen. Zu jene
 Nach einem Dutzend an Sendungen wuchs in manchen der Ehrgeiz kontinuierlich Shownotes für die [WRINT](http://wrint.de/) Episoden zu schreiben. Wir wollten für alle Hörer eine Möglichkeit bieten, die relevanten Links und Verweise in den 3- bis 4-stündigen Sendung zusammen an einem Ort zu haben um die Sendung thematisch überblicken zu können.
 Das ursprüngliche Ziel hat sich bis heute nicht stark verändert, wir wollen für möglichst viele Audioinhalte zusätzliche Daten sammeln, zusammenführen und somit Podcasts leichter durchsuchbar, sowie erwähnte Webseiten, Produkte, Personen, … leichter auffindbar machen.   
 
+
 ###Den Piraten sei gedankt ```11.2011```
 
 Es hatte sich eine Gruppe von Personen herausgebildet, welche regelmäßig Shownotes schrieben und von der [Piraten-IT](https://wiki.piratenpartei.de/IT) eine [Team-Instanz für das Shownotes Team bekommen hatte](https://shownotes.piratenpad.de/).
 Dies ermöglichte es, die Shownotes übersichtlich auf einer Seite zu haben und diese erstmalig vor Vandalismus zu schützen.
 Es fanden erste Überlegungen statt, unter einem Namen "Shownotes" Sendungsnotizen zu schreiben. Neben WRINT wurde damals auch begonnen regelmäßig Shownotes für NSFW zu schreiben.
 
+
 ###Mehr Aufmerksamkeit ```01.2012```
 
 Tim Pritlove wurde Anfang 2012 auf das Shownotes Projekt aufmerksam. Er äußerte den Wunsch, schöner formatierte Shownotes haben zu wollen. Daraufhin gab es zu Beginn sehr zögerliche erste Standardisierungsansätze, welche ein Jahr später zum OSF heran wuchsen.
 Es wurden vermehrt Zeitangaben gesetzt, welche jedoch noch händisch von einem vom [ePirat](http://epirat.de/) geschriebenen Uhr (Stream Laufzeit) Script, abgeschrieben werden mussten.
 
+
 ###Hola Shownot.es ```08.2012```
 
 Im August 2012 sponserte [Simon Waldherr](http://simon.waldherr.eu/) dem Shownotes Projekt die Domain [Shownot.es](http://shownot.es/) und schlug ein Logo vor, welches bis heute [das Logo der Shownot.es](https://raw.github.com/shownotes/about-us/master/shownotes.png) ist. Mit der neuen Domain drängte sich dann auch eine schöne Webseite mit einer Übersicht der Shownotes auf.  
 Diese Webseite wurde hauptsächlich von [Quimoniz](https://alpha.app.net/quimoniz) und [Simon](http://simon.waldherr.eu/) geschrieben und aktuell gehalten. Auf dieser Webseite werden seit dem die geparsten Versionen der Shownotes angeboten, wobei [die Shownotes zusätzlich auch auf GitHub](https://github.com/shownotes/shownot.es) zu finden sind und vollständig unter der [CC0 Lizenz](http://creativecommons.org/publicdomain/zero/1.0/) stehen.
+
 
 ###Open Shownotes Format ```09.2012```
 
@@ -42,11 +47,13 @@ Um die Shownotes strukturierter erscheinen zu lassen und somit auch das Design d
 Dieses Format haben wir ```Open Shownotes Format``` genannt und arbeiten seit September 2012 kontinuierlich daran. Obwohl wir im Gegensatz zu anderen Formaten keine Versionsnummern besitzen entwickelt sich das Format ständig weiter. Eine Definition der Sprache / des Formats ist mittlerweile auf [shownotes.github.io/OSF-in-a-Nutshell](http://shownotes.github.io/OSF-in-a-Nutshell/#deutsch) zu finden.  
 Die [erste Implementation eines OSF Parsers](https://github.com/shownotes/OpenShownotesFormat) wurde von [Simon](http://simon.waldherr.eu/) in PHP geschrieben.
 
+
 ###Podcaster Workshop 2012 ```12.2012```
 
 Auf dem [29C3, also dem 29ten Chaos Communication Congress](http://events.ccc.de/category/29c3/) wurde das Shownot.es-Projekt auf dem [Podcaster Workshop](http://events.ccc.de/congress/2012/wiki/Podcaster_Workshop) einer breiteren Öffentlichkeit präsentiert.   
 [Tim Pritlove](http://metaebene.me/timpritlove/), einer der beiden Organisatoren des Workshops stellte dort neben seinen eigenen Projekten und Workflows dankenswerterweise auch unsere Tools und Dienste vor.  
 Als Teil des Shownot.es Teams war für uns [Evita Bley](https://alpha.app.net/evita) vor Ort.
+
 
 ###Show Pad und Module ```03.2013```
 
@@ -57,6 +64,7 @@ Ein weiteres Modul ist [tinyOSF](https://github.com/shownotes/tinyOSF.js) von [S
 Um regelmäßige Backups der Pad Datenbank kümmert sich das [show-pad-backup Modul](https://github.com/shownotes/show-pad-backup) von [luto](http://luto.at/).  
 Dieses eigene Pad erleichtert uns die Arbeit enorm, zusätzlich zu den bereits genannten Features werden Pads für Sendungen durch die [Hörsuppen](http://hoersuppe.de/) [API](http://hoersuppe.de/feature/api.txt) angelegt.
 
+
 ###Wordpress Plugin ```04.2013```
 
 Bis Anfang 2013 mussten die Shownotes im Open Shownotes Format erst in einen von [Simon](http://simon.waldherr.eu/) geschriebenen OSF Parser (in PHP und JS verfügbar) geworfen werden, um weiterverwendbares HTML oder Chapter-Daten zu bekommen, was jedoch einen unnötigen Mehraufwand für Podcaster bedeutete.  
@@ -64,17 +72,21 @@ Um die Shownotes auch einfach in die Blogs der jeweiligen Podcaster zu bringen h
 Da [Simon](http://simon.waldherr.eu/) als einer der Entwickler des [Podlove Web Player](https://github.com/podlove/podlove-web-player)s schon einige Erfahrungen mit der Entwicklung von Wordpress Plugins sammeln konnte und bereits ein [OSF Parser in PHP](https://github.com/shownotes/OpenShownotesFormat) existierte, konnte das [Shownotes Wordpress Plugin](https://github.com/shownotes/wp-osf-shownotes) relativ schnell umgesetzt werden. 
 Anfangs funktionierte das Plugin nur zusammen mit dem [Podlove Publisher](https://github.com/podlove/podlove-publisher), wurde aber auf [Tims](http://metaebene.me/timpritlove/) Wunsch später auch als eigenständiges Plugin released.
 
+
 ###PPW13 und RP13 ```05.2013```
 
 Um uns noch besser mit den Podcastern abstimmen zu können und uns gegenseitig auf neue Ideen zu bringen hatte uns [Tim Pritlove](http://metaebene.me/timpritlove/) auf den [Podlove Podcaster Workshop 2013 (kurz PPW13)](http://metaebene.me/blog/2013/03/15/podlove-podcaster-workshop/) und die darauf folgende [Re:publica 2013](http://re-publica.de/) eingeladen. Das Shownot.es Team wurde dort von [Evita](https://alpha.app.net/evita), [Simon](http://simon.waldherr.eu/) und [luto](http://luto.at/) vertreten.   
 Auf der Re:publica stellten wir die Infrastruktur um Shownotes für Talks und Vorträge zu schreiben, hatten dabei ein paar Probleme und lernten vieles, was wir auf dem nächsten Chaos Communication Congress berücksichtigen wollen. Die drei Shownoter und kamen mit vielen neuen Ideen und neuen Kontakten von den beiden Veranstaltungen zurück.  
 Neben den Shownotes für die Vorträge haben wir aber auch Shownotes für [die täglich stattfindende Sondersendung](http://die-sondersendung.de/) geschrieben.
 
+
 ###Treffen und Skypekonferenzen ```06.2013```
 
 Auf dem [PPW13](http://metaebene.me/blog/2013/03/15/podlove-podcaster-workshop/) und der [RP13](http://re-publica.de/) hatten wir festgestellt, dass persönliche Gespräche von Angesicht zu Angesicht (d.h. keine Chats oder Instant Messenger) bei weitem effektiver sind, als beispielsweise langwierige Diskussionen im IRC.
 Aus diesem Grund trafen sich [Evita](https://alpha.app.net/evita) und [Simon](http://simon.waldherr.eu/) im Juni 2013 mit einigen Podcastern in Berlin um an neuen Ideen zu feilen. 
+Erste Konzepte um neben dem Audio auch die Shownotes mittels Audioschnitt-Software zu schneiden wurden ebenfalls erarbeitet und erste Code-Zeilen geschrieben.  
 Zusätzlich fand am 02. Juli die erste Skype Konferenz mit allen Mitgliedern des Kernteams statt. Künftig wollen wir dies mindestens einmal im Monat machen.
+
 
 ###Sommerloch? ```07.2013```
 
@@ -84,16 +96,18 @@ Mitte Juli fragte auch [Horst Mumpitz](https://twitter.com/HorstMumpitz) nach de
 Zusätzlich fanden auch Planungen bzgl. eines Podcast-Informations-Systems statt und halten immer noch an. Es soll als Informations-Austausch-System zwischen verschiedenen Podcast bezogenen Diensten dienen und möglichst offen und dezentral sein. Zusätzliche Informationen gibt es im [PIS-draft](https://github.com/SimonWaldherr/PIS-draft) Repo.  
 Um noch Besser zu kommunizieren wurden [XMPP](http://jabber.shownot.es/) und [Mumble](http://mumble.shownot.es/) Server sowie eine Mailingliste eingerichtet.
 
+
 ###Metadaten for President ```08.2013```
 
 Nichts ist so stark wie eine Idee deren Zeit gekommen ist und die Zeit der Metadaten ist eindeutig gekommen. Im August erreichten die Überlegungen über ein Metadaten System eine neue Ebene. Zusammen mit Xenim, ReliveRadio, PodUnion, Vemedio, Podbe, der Hörsuppe und weiteren Gästen wurden wichtige Aspekte eines solchen Systems besprochen.
 
+
 ###Ein Blick in die Zukunft
 
-Das größte derzeit in Arbeit befindliche Projekt ist das Metadaten Austausch System (Codename PIS).  
-Weitere Pläne bestehen für die Analyse der Texte um zum Beispiel Vorhersagen automatisch in eine Datenbank einzutragen und bei Erreichen des Zeitpunkts zu kennzeichnen. Ausserdem wird auch an einem Tool gearbeitet, um Shownotes auch im Nachhinein einfacher schreiben zu können.
+Das größte derzeit in Arbeit befindliche Projekt ist das [Metadaten Austausch System (Codename PIS)](https://github.com/SimonWaldherr/PIS-draft).  
+Weitere Pläne bestehen für die Analyse der Texte um zum Beispiel Vorhersagen automatisch in eine Datenbank einzutragen und bei Erreichen des Zeitpunkts zu kennzeichnen. Ausserdem wird auch an einem Tool gearbeitet, um Shownotes auch im Nachhinein einfacher schreiben zu können.  
+Auch das Thema Kalender, sowie die Anpassung der Live-Shownotes an nachträglich geschnittene Episoden ist bei uns auf der Agenda.
 Um auch die Integration in Wordpress noch weiter zu verbessern werden auch weiterhin Updates für das Shownotes Wordpress Plugin erscheinen.  
-
 
 ---
 
@@ -178,4 +192,5 @@ Flattrn könnt ihr uns und das Projekt auf jeder Shownotes Seite und auf [unsere
 Wer noch weitere Infos sucht, kann sich gerne mit uns im IRC auf freenode.net ([Webchat](http://webchat.freenode.net/?channels=%23shownotes)) unterhalten. 
 Außerdem könnt ihr uns auch auf [Twitter](https://twitter.com/dieshownotes) und [App.net](https://alpha.app.net/shownotes) erreichen. Wer uns auf nicht öffentlichen Wegen erreichen möchte, kann uns auch über [unser Kontaktformular](http://shownot.es/contact/) erreichen. Wenn ihr uns über andere Kontaktmöglichkeiten erreichen wollt, (z.B. XMPP, Mail (gerne auch GPG-verschlüsselt), Skype, Post, Brieftaube, …) könnt ihr gerne danach Fragen. 
 Wer sich gerne mündlich mit uns unterhalten möchte, kann sich auch gerne auf unserem [mumble/murmur Server auf mumble.shownot.es](http://mumble.shownot.es/) mit uns verabreden. 
-Die folgenden Kommunikationswege lehnen wir jedoch grundsätzlich ab: Facebook, Whatsapp, De-Mail, E-Postbrief
+Die folgenden Kommunikationswege lehnen wir jedoch grundsätzlich ab: Facebook, Whatsapp, De-Mail, E-Postbrief.
+
