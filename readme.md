@@ -184,7 +184,15 @@ PIS Entwurf             | 07.2013            | md/SVG/JSON  | Simon            |
 Shownot.es ist kein gewinnorientiertes Projekt und stellt alle Entwicklungen unter möglichst freien Lizenzen zur Verfügung (die Shownotes selbst sind [CC0 (Public Domain)](http://creativecommons.org/publicdomain/zero/1.0/) und der Großteil des Codes steht unter der MIT Lizenz zu jeglicher Konsumierung, Nutzung, Veränderung und Weiterverbreitung zur Verfügung). Da uns aber durch die Zur­ver­fü­gung­stel­lung des Pads, der Webseite und der restlichen Tools Hostingkosten entstehen und wir auch unsere wertvolle Zeit in das Projekt stecken, würden wir uns über Spenden und Flattr Klicks freuen.  
 Wir sind dankbar für jeden Cent, der uns hilft, die Hostinggebühren zu bezahlen. Sollte irgendwann genug zusammenkommen, um auch unsere Reisekosten zu verschiedenen Events (Chaos Communication Congress, Re:publica, …) zu bezahlen wären wir überaus glücklich.
 
-Flattrn könnt ihr uns und das Projekt auf jeder Shownotes Seite und auf [unserer Flattr Profil Seite](https://flattr.com/profile/shownotes). 
+Flattrn könnt ihr uns und das Projekt auf jeder Shownotes Seite und auf [unserer Flattr Profil Seite](https://flattr.com/profile/shownotes).
+
+
+##"Social" Media
+
+Im Bereich "Soziale"-Netzwerke fokussieren wir uns vor allem auf [Twitter](https://twitter.com/dieshownotes) und [App.net](https://alpha.app.net/shownotes). Da wir persönlich, ähnlich wie auch die meisten anderen im Podcast-Umfeld wenig Bezug zu Facebook haben, haben wir auf Facebook nur [eine Seite, welche auf unsere Twitter und App.net Accounts verweist](https://www.facebook.com/dieshownotes).  
+Wer uns gerne über Twitter oder App.net kontaktieren möchte kann das gerne über die Team Accounts oder über die jeweiligen (oben genannten) Accounts der einzelnen Mitglieder machen.  
+Podcasts die zum Shownoten aufrufen, sowie interessante Projekte rund um Podcasting retweeten/reposten wir jederzeit gerne (sofern wir es mitbekommen (ihr könnt uns auch gerne einen @-reply schicken)).  
+Unsere "Social" Media Kanäle kann jeder aus dem Kernteam bespielen, allerdings schreiben wir derzeit nicht dazu, wer aus dem Team etwas geposted hat (ist doch auch irgendwie lächerlich). 
 
 
 ##Kontakt und weitere Infos
