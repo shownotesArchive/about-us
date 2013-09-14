@@ -187,10 +187,10 @@ Wir sind dankbar für jeden Cent, der uns hilft, die Hostinggebühren zu bezahle
 Flattrn könnt ihr uns und das Projekt auf jeder Shownotes Seite und auf [unserer Flattr Profil Seite](https://flattr.com/profile/shownotes). 
 
 
-##Weitere Infos
+##Kontakt und weitere Infos
 
 Wer noch weitere Infos sucht, kann sich gerne mit uns im IRC auf freenode.net ([Webchat](http://webchat.freenode.net/?channels=%23shownotes)) unterhalten. 
-Außerdem könnt ihr uns auch auf [Twitter](https://twitter.com/dieshownotes) und [App.net](https://alpha.app.net/shownotes) erreichen. Wer uns auf nicht öffentlichen Wegen erreichen möchte, kann uns auch über [unser Kontaktformular](http://shownot.es/contact/) erreichen. Wenn ihr uns über andere Kontaktmöglichkeiten erreichen wollt, (z.B. XMPP, Mail (gerne auch GPG-verschlüsselt), Skype, Post, Brieftaube, …) könnt ihr gerne danach Fragen. 
+Außerdem könnt ihr uns auch auf [Twitter](https://twitter.com/dieshownotes) und [App.net](https://alpha.app.net/shownotes) erreichen. Wer uns auf nicht öffentlichen Wegen etwas mitteilen möchte, kann uns auch über [unser Kontaktformular](http://shownot.es/contact/) kontaktieren. Wenn ihr uns über andere Kontaktmöglichkeiten erreichen wollt, (z.B. XMPP, Mail (gerne auch GPG-verschlüsselt), Skype, Post, Brieftaube, …) könnt ihr gerne danach Fragen. 
 Wer sich gerne mündlich mit uns unterhalten möchte, kann sich auch gerne auf unserem [mumble/murmur Server auf mumble.shownot.es](http://mumble.shownot.es/) mit uns verabreden. 
 Die folgenden Kommunikationswege lehnen wir jedoch grundsätzlich ab: Facebook, Whatsapp, De-Mail, E-Postbrief.
 
