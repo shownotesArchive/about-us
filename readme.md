@@ -3,8 +3,9 @@
 
 ##Show Notes
 
-Als "Shownotes" (engl. show notes, "Sendungsnotizen"/"Mitschriften") werden ergänzende und zusammenfassende Notizen und Texte bezeichnet. Vor allem bei Podcasts hat es sich durchgesetzt, dass solche Mitschriften und Linksammlungen zusammen mit den Audio- oder Videoinhalten angeboten werden.  
-Vor allem bei längeren Episoden bieten die Shownotes eine schnelle Übersicht über den Inhalt und durch die Links kann sich ein Hörer selbst eine Meinung der besprochenen Inhalte machen oder erwähnte Produkte im Podcast schneller finden.  
+Als "Shownotes" (engl. show notes, "Sendungsnotizen"/"Mitschriften") werden ergänzende und zusammenfassende Notizen und Texte bezeichnet.
+Vor allem bei Podcasts hat es sich durchgesetzt, dass solche Mitschriften und Link-Sammlungen zusammen mit den Audio- oder Videoinhalten angeboten werden.  
+Besonders bei längeren Episoden bieten die Shownotes eine schnelle Übersicht über den Inhalt und durch die Links kann sich ein Hörer selbst eine Meinung der besprochenen Inhalte machen oder erwähnte Produkte im Podcast schneller finden.  
 Shownotes können in vielfacher Weiße den Inhalt eines Podcasts widerspiegeln, neben chronologischer Sortierung gibt es auch thematisch sortierte Shownotes und sogar grafische Darstellungsarten (wie z.B. Mindmaps und Diagramme).
 
 
