@@ -104,7 +104,7 @@ Nichts ist so stark wie eine Idee deren Zeit gekommen ist und die Zeit der Metad
 
 ###Podcaster Workshop ```10.2013```
 
-Im Oktober fand der zweite Podlove Podcaster Workshop des Jahres 2013 statt. Das Shownot.es Projekt wurde vorort in Berlin von Evita, Luto, Kai, [Dr4k3](http://fastreboot.de/) und [Simon](http://simon.waldherr.eu/) vertreten. Am ersten Workshop-Tag wurde vom Team das Projekt, sowie die Errungenschaften seit dem letzten Workshop vorgestellt. Die vielen Fragen sprengten unseren Zeitplan so sehr, dass wir nicht mal die Hälfte unserer Themen ansprechen konnten.
+Im Oktober fand der zweite Podlove Podcaster Workshop des Jahres 2013 statt. Das Shownot.es Projekt wurde vorort in Berlin von [Evita](https://alpha.app.net/evita), [Luto](http://luto.at/), [Kai](http://twitter.com/kaikubasta), [Dr4k3](http://fastreboot.de/) und [Simon](http://simon.waldherr.eu/) vertreten. Am ersten Workshop-Tag wurde vom Team das Projekt, sowie die Errungenschaften seit dem letzten Workshop vorgestellt. Die vielen Fragen sprengten unseren Zeitplan so sehr, dass wir nicht mal die Hälfte unserer Themen ansprechen konnten.
 Der zweite Tag wurde verwendet um das Gemeinschaftsprojekt [FAMOUS](https://github.com/famous-project) (siehe ```08.2013```) vorzustellen. Die Abende verbrachte das Team in der [c-base](http://de.wikipedia.org/wiki/C-base) sowie beim [Kuchenkaiser](http://www.berlin.de/restaurants/1634961-1622830-kuchenkaiser.html).
 
 
