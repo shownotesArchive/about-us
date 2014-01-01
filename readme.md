@@ -102,6 +102,16 @@ Um noch Besser zu kommunizieren wurden [XMPP](http://jabber.shownot.es/) und [Mu
 Nichts ist so stark wie eine Idee deren Zeit gekommen ist und die Zeit der Metadaten ist eindeutig gekommen. Im August erreichten die Überlegungen über ein Metadaten System eine neue Ebene. Zusammen mit Xenim, ReliveRadio, PodUnion, Vemedio, Podbe, der Hörsuppe und weiteren Gästen wurden wichtige Aspekte eines solchen Systems besprochen.
 
 
+###Workshops und Konferenzen ```10.2013```
+
+Am 26ten und 27ten Oktober fand in Berlin der [zweite Podlove Podcaster Workshop 2013](http://metaebene.me/blog/2013/09/07/2-podlove-podcaster-workshop-am-26-27-oktober-2013/) statt, an welchem das Shownotes Team natürlich auch vor Ort war. Es wurde viel über die Vergangenheit, die Gegenwart und die Zukunft der Podcasts im Allgemeinen und der Shownotes im Speziellen gesprochen.
+
+
+###30C3 ```12.2013```
+
+Wie jedes Jahr fand auch 2013 wieder der [Chaos Communication Congress (30C3)](https://events.ccc.de/congress/2013/wiki/Main_Page) statt. Der Congress fand nach dem Umzug nach Berlin nun bereits zum zweiten mal wieder in Hamburg statt. Auch hier war das Shownotes Team wieder vor Ort. Neben der Mithilfe bei der täglich stattfindenden [Sondersendung](http://die-sondersendung.de) wurden auch Shownotes für [Lightning Talks](http://de.wikipedia.org/wiki/Lightning_Talk) geschrieben.
+
+
 ###Ein Blick in die Zukunft
 
 Das größte derzeit in Arbeit befindliche Projekt ist das [Metadaten Austausch System (Codename PIS)](https://github.com/SimonWaldherr/PIS-draft).  
