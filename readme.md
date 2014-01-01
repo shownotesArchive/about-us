@@ -102,9 +102,10 @@ Um noch Besser zu kommunizieren wurden [XMPP](http://jabber.shownot.es/) und [Mu
 Nichts ist so stark wie eine Idee deren Zeit gekommen ist und die Zeit der Metadaten ist eindeutig gekommen. Im August erreichten die Überlegungen über ein Metadaten System eine neue Ebene. Zusammen mit Xenim, ReliveRadio, PodUnion, Vemedio, Podbe, der Hörsuppe und weiteren Gästen wurden wichtige Aspekte eines solchen Systems besprochen.
 
 
-###Workshops und Konferenzen ```10.2013```
+###Podcaster Workshop ```10.2013```
 
-Am 26ten und 27ten Oktober fand in Berlin der [zweite Podlove Podcaster Workshop 2013](http://metaebene.me/blog/2013/09/07/2-podlove-podcaster-workshop-am-26-27-oktober-2013/) statt, an welchem das Shownotes Team natürlich auch vor Ort war. Es wurde viel über die Vergangenheit, die Gegenwart und die Zukunft der Podcasts im Allgemeinen und der Shownotes im Speziellen gesprochen.
+Am 26ten und 27ten Oktober fand in Berlin der [zweite Podlove Podcaster Workshop 2013](http://metaebene.me/blog/2013/09/07/2-podlove-podcaster-workshop-am-26-27-oktober-2013/) statt. Das Shownot.es Projekt wurde von [Evita](https://alpha.app.net/evita), [Luto](http://luto.at/), [Kai](http://twitter.com/kaikubasta), [Dr4k3](http://fastreboot.de/) und [Simon](http://simon.waldherr.eu/) vertreten. Am ersten Workshop-Tag wurde vom Team das Projekt, sowie die Errungenschaften seit dem letzten Workshop vorgestellt. Die vielen Fragen sprengten unseren Zeitplan so sehr, dass wir nicht mal die Hälfte unserer Themen ansprechen konnten.
+Der zweite Tag wurde verwendet um das Gemeinschaftsprojekt [FAMOUS](https://github.com/famous-project) (siehe ```08.2013```) vorzustellen. Die Abende verbrachte das Team in der [c-base](http://de.wikipedia.org/wiki/C-base) sowie beim [Kuchenkaiser](http://www.berlin.de/restaurants/1634961-1622830-kuchenkaiser.html).
 
 
 ###30C3 ```12.2013```
@@ -114,7 +115,7 @@ Wie jedes Jahr fand auch 2013 wieder der [Chaos Communication Congress (30C3)](h
 
 ###Ein Blick in die Zukunft
 
-Das größte derzeit in Arbeit befindliche Projekt ist das [Metadaten Austausch System (Codename PIS)](https://github.com/SimonWaldherr/PIS-draft).  
+Das größte derzeit in Arbeit befindliche Projekt ist das [Metadaten Austausch System (FAMOUS)](https://github.com/famous-project).  
 Weitere Pläne bestehen für die Analyse der Texte um zum Beispiel Vorhersagen automatisch in eine Datenbank einzutragen und bei Erreichen des Zeitpunkts zu kennzeichnen. Ausserdem wird auch an einem Tool gearbeitet, um Shownotes auch im Nachhinein einfacher schreiben zu können.  
 Auch das Thema Kalender, sowie die Anpassung der Live-Shownotes an nachträglich geschnittene Episoden ist bei uns auf der Agenda.
 Um auch die Integration in Wordpress noch weiter zu verbessern werden auch weiterhin Updates für das Shownotes Wordpress Plugin erscheinen.  
@@ -136,6 +137,7 @@ Simon Waldherr   | 07.2012    | Parser        | [simon.waldherr.eu](http://simon
 Evita Bley       | 08.2012    | Planung       | [podcascription.de](http://podcascription.de/) | [@evita](https://alpha.app.net/evita)                 | [@evitabley](https://twitter.com/evitabley)             | [@evitabley](https://github.com/evitabley)
 luto             |            | Pad           | [luto.at](http://luto.at/)                     | [@luto](https://alpha.app.net/luto)                   | [@luutoo](https://twitter.com/luutoo)                   | [@luto](https://github.com/luto)
 M. Stoffers      | 02.2013    | Notification  | [fastreboot.de](http://fastreboot.de/)         | [@dr4k3](https://alpha.app.net/dr4k3)                 | [@dr4k3_LE](https://twitter.com/dr4k3_LE)               | [@Drake81](https://github.com/Drake81)
+Vale             | 03.2013    |               |                                                | [@vale](https://alpha.app.net/vale)                   |                                                         | [@vale](https://github.com/va1e)
 …                | …          | …             | …                                              | …                                                     | …                                                       | … 
 
 Dies ist nur ein kleiner Teil des Shownotes Teams, der Teil der sich bereits hier eingetragen hat.  
@@ -156,7 +158,7 @@ Bei wichtigen Veranstaltungen auf welchen auch Leute aus dem Kernteam teilnehmen
 * mehr Metadaten für alle und alles
 * mehr Semantik in Texten
 * Spaß haben
-* Podcaster und Hörerbindung steigern
+* Podcaster-Hörerbindung steigern
 * mehr Kommunikation zwischen Sender und Hörer
 * Tools schreiben um diese Ziele zu erreichen
 
@@ -167,7 +169,7 @@ Bei wichtigen Veranstaltungen auf welchen auch Leute aus dem Kernteam teilnehmen
 
 Beschreibung            | Entwicklungsbeginn | Hauptsprache | Maintainer       | Repo
 ------------------------|--------------------|--------------|------------------|------
-shownot.es Webseite     | 08.2012            | HTML         | Quimoniz / Simon | [shownot.es](https://github.com/shownotes/shownot.es)
+shownot.es Webseite     | 08.2012            | HTML/CSS/JS  | Quimoniz / Simon | [shownot.es](https://github.com/shownotes/shownot.es)
 PHP OSF Parser          | 09.2012            | PHP          | Simon            | [OpenShownotesFormat](https://github.com/shownotes/OpenShownotesFormat)
 Etherpad Bookmarklets   | 12.2012            | JavaScript   | Simon            | [EtherpadBookmarklets](https://github.com/shownotes/EtherpadBookmarklets)
 *insert Timestamp* ^1   | 01.2013            | JavaScript   | Simon            | [ep_insertTimestamp](https://github.com/shownotes/ep_insertTimestamp)
@@ -181,7 +183,7 @@ OSF Definition          | 05.2013            | Markdown     | Simon            |
 Zeitangabe Parser       | 06.2013            | JavaScript   | Simon            | [parseTime.js](https://github.com/SimonWaldherr/parseTime.js)
 Notification Dienst     | 06.2013            | Perl         | Dr4k3            | [shownotes-message-service](https://github.com/Drake81/shownotes-message-service)
 über Shownot.es         | 07.2013            | Markdown     | Simon            | [about-us](https://github.com/shownotes/about-us)
-PIS Entwurf             | 07.2013            | md/SVG/JSON  | Simon            | [PIS draft](https://github.com/SimonWaldherr/PIS-draft)
+FAMOUS Entwurf          | 07.2013            | md/SVG/JSON  | Simon            | [FAMOUS draft](https://github.com/famous-project)
 
 ^1) ShowPad Modul  
 ^2) Sowohl Modul, als auch Standalone  
