@@ -137,7 +137,7 @@ Simon Waldherr   | 07.2012    | Parser        | [simon.waldherr.eu](http://simon
 Evita Bley       | 08.2012    | Planung       | [podcascription.de](http://podcascription.de/) | [@evita](https://alpha.app.net/evita)                 | [@evitabley](https://twitter.com/evitabley)             | [@evitabley](https://github.com/evitabley)
 luto             |            | Pad           | [luto.at](http://luto.at/)                     | [@luto](https://alpha.app.net/luto)                   | [@luutoo](https://twitter.com/luutoo)                   | [@luto](https://github.com/luto)
 M. Stoffers      | 02.2013    | Notification  | [fastreboot.de](http://fastreboot.de/)         | [@dr4k3](https://alpha.app.net/dr4k3)                 | [@dr4k3_LE](https://twitter.com/dr4k3_LE)               | [@Drake81](https://github.com/Drake81)
-Vale             | 03.2013    |               |                                                | [@vale](https://alpha.app.net/vale)                   |                                                         | [@vale](https://github.com/va1e)
+Vale             | 03.2013    |               |                                                | [@vale](https://alpha.app.net/vale)                   |                                                         | [@vale](https://github.com/vale)
 …                | …          | …             | …                                              | …                                                     | …                                                       | … 
 
 Dies ist nur ein kleiner Teil des Shownotes Teams, der Teil der sich bereits hier eingetragen hat.  
